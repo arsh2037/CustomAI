@@ -1,0 +1,128 @@
+     Skip to main navigation
+     Skip to search
+     Skip to main content
+
+Charles Darwin University Home
+
+     Home
+     Profiles
+     Research Outputs
+     Datasets
+     Organisational Units
+     Student theses
+     Projects
+
+Search by expertise, name or affiliation Search...
+
+
+
+
+INFERR-Iron Infusion in Haemodialysis Primary Data
+     Sandawana William Majoni (Creator)
+     Alan Cass (Creator)
+
+     Higher Degree by Research (HDR) Cohort
+     Menzies School of Health Research
+
+Dataset
+
+     Overview
+     Research Outputs (1)
+
+Description
+End-stage kidney disease (ESKD) rates for Aboriginal and Torres Strait Islander people in remote areas are up to 30 times higher than
+the national average. Anaemia is a major complication of ESKD and often exacerbated by iron deficiency. It reduces quality of life and is
+associated with cardiovascular (CV) events and premature death. Erythropoietin (EPO) is the main agent used to correct anaemia but
+requires adequate iron stores to work effectively. Both EPO and IV iron are routine treatment for dialysis patients. Blood tests for ferritin
+and transferrin saturation are used to guide iron therapy. Ferritin is low with iron deficiency, but it is raised with ongoing inflammation or
+infection. Aboriginal and Torres Strait Islander dialysis patients have co-existing iron deficiency, high ferritin and ongoing inflammation. In
+this setting, there is no evidence to guide the use of IV iron and we do not understand the balance of benefits and harms of this routinely
+administered treatment.
+
+The primary outcome is a composite outcome measure with:
+1. All-cause death
+2. Hospitalisation with a principal diagnosis of all-cause infection
+
+Data Description
+• Hospitalisations
+• Pathology Results
+• Comorbidities/Medical History
+• Prescribed medications
+
+This dataset is accessible by application through 'My Health Data Australia' (MyHDA), https://researchdata.edu.au/health
+The platform is available to Australian Universities with AAF access.
+
+Please note there may be data sharing restrictions, which will be described in MyHDA and on the trial registry.
+
+Data Custodian and the Principal Investigator contact:
+
+Prof Sandawana William Majoni
+william.majoni@menzies.edu.au
+  Date made available 2026
+                        Menzies School of Health
+         Publisher
+                        Research
+       Date of data
+                        15 Aug 2020 - 31 Dec 2025
+        production
+Geographical coverage Northern Territory, Australia
+
+
+Contact
+     research.outputs@cdu.edu.au
+     DOI
+     10.25913/5DS2-JN02
+
+Access Dataset
+     Clinical Trial registration on ANZCTR
+
+Research output
+
+ Research output per year         2021 2021 2021
+
+     1 Article
+
+
+     INFERR-Iron infusion in haemodialysis study: INtravenous iron polymaltose for First Nations Australian
+     patients with high FERRitin levels on haemodialysis—a protocol for a prospective open-label blinded
+     endpoint randomised controlled trial
+
+     Majoni, S. W., Nelson, J., Germaine, D., Hoppo, L., Long, S., Divakaran, S., Turner, B., Graham, J., Cherian, S., Pawar, B.,
+     Rathnayake, G., Heron, B., Maple-Brown, L., Batey, R., Morris, P., Davies, J., Fernandes, D., Sundaram, M., Abeyaratne, A., Wong,
+     Y. H. S., & 4 othersLawton, P. D., Taylor, S., Barzi, F. & Cass, A., Dec 2021, In: Trials. 22, 1, p. 1-21 21 p., 868.
+
+     Research output: Contribution to journal › Article › peer-review
+
+     Open Access
+     File
+             Patient 100%
+
+             Randomized Controlled Trial 100%
+
+             Hemodialysis 100%
+
+             Iron 100%
+
+             Infusion 100%
+     14 Downloads (Pure)
+
+Cite this
+     DataSetCite
+
+Majoni, S. W. (Creator), Cass, A. (Creator) (2026). INFERR-Iron Infusion in Haemodialysis Primary Data. Menzies School of Health
+Research. 10.25913/5DS2-JN02
+
+
+Powered by Pure, Scopus & Elsevier Fingerprint Engine™ © 2023 Elsevier B.V.
+
+We use cookies to help provide and enhance our service and tailor content. By continuing you agree to theuse of cookies
+
+
+
+
+Log in to Pure
+
+About web accessibility
+
+Contact us
+

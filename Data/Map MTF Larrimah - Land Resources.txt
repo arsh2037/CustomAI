@@ -1,0 +1,1004 @@
+300000mE
+
+310000mE
+
+320000mE
+
+330000mE
+
+LANDFORM
+
+170
+
+km 0
+
+300000mE
+
+2
+
+4
+
+6
+
+310000mE
+
+320000mE
+
+GENERAL LAND CAPABILITY
+
+10 km
+
+8
+
+330000mE
+
+km 0
+
+1
+
+2
+
+3
+
+5 km
+
+4
+
+170
+
+Black numbered lines are 10 000 metre intervals of the
+8310000mN
+
+Transverse Mercator Projection
+
+Horizontal Datum: GDA 94
+
+171
+
+Mangarrayi Aboriginal Land Trust
+
+Map Grid of Australia (MGA) Zone 53
+Transverse Mercator Projection
+
+Mapping the Future
+
+NT Por 5417
+
+Mapping the Future Project - Larrimah
+
+Horizontal Datum: GDA 94
+
+8310000mN
+
+Map Grid of Australia (MGA) Zone 53
+
+8310000mN
+
+8310000mN
+
+Black numbered lines are 10 000 metre intervals of the
+
+171
+
+Cr
+ee
+k
+
+167
+
+Mangarrayi Aboriginal Land Trust
+NT Por 5417
+
+SOIL and LAND RESOURCES
+
+Ca
+t
+t
+l
+e
+
+182
+
+of the LARRIMAH AREA
+
+Larrimah Area
+
+167
+
+(North)
+For further information contact:
+182
+
+Department of Environment, Parks and Water Security
+Mapping the Future Project
+Web:https://depws.nt.gov.au/DevelopmentOpportunities
+
+177
+175
+
+Rangelands Division
+Email: rangelands@nt.gov.au
+
+Level 3, Goyder Centre, 25 Chung Wah Terrace, Palmerston,
+
+8300000mN
+
+AY
+GHW
+HI
+ART
+STU
+
+8300000mN
+
+Ph. (08) 8999 4478
+
+Northern Territory of Australia
+
+Bibliographic references:
+Burgess, J., McGrath, N., Andrews, K. and Wright, A. (2015).
+
+174
+
+Agricultural Land Suitability Series, Report 1.
+eC
+l
+t
+t
+Ca
+
+Soil and Land Suitability Assessment for Irrigated Agriculture in the Larrimah Area, Sturt Plateau.
+
+k
+ee
+r
+
+185
+
+177
+
+Technical Report 19/2015D
+175
+
+Department of Land Resource Management, Darwin, NT.
+
+McGrath, N., Andrews, K., Firby, L. Walton, S. and Burgess, J. (2019).
+Agricultural Land Suitability Series, Report 15.
+
+8300000mN
+
+in the Larrimah Township Area, Sturt Plateau.
+
+171
+
+Technical Report 18/2018D
+Department of Envirnoment and Natural Resources, Darwin, NT.
+
+8300000mN
+
+Soil and Land Suitability Assessment for Irrigated Agriculture on NT Portion 4478 and 4663
+
+Vermelha
+
+AY
+GHW
+HI
+ART
+STU
+
+184
+
+Technical references:
+
+NT Por 5130
+
+National Committee on Soil and Terrain (2009).
+Australian Soil and Land Survey Field Handbook. Third Edition.
+
+8290000mN
+
+8290000mN
+
+CSIRO Publishing, Melbourne, Victoria.
+
+174
+
+Isbell, R. F. and National Committe on Soil and Terrain (2016).
+The Australian Soil Classification. Second Edition.
+CSIRO Publishing, Clayton South, Victoria.
+
+NT Por 3673
+
+185
+
+Cartography by:
+
+182
+
+eek
+dum Cr
+r
+Bi
+
+183
+
+Deborah Mullin
+Geospatial Services
+Department of Environment, Parks and Water Security
+Northern Territory Government.
+eC
+l
+t
+Cat
+
+Wubalawun
+Aboriginal Land Trust
+
+Map Reference: Map_MTFLarrimah_LandRes_m53.dgn
+
+eek
+r
+
+NT Por 2016
+
+171
+
+176
+
+Drawing Number: DEPWS2021036
+December 2021
+184
+
+This map was produced
+on the Geocentric Datum
+187
+
+of Australia 1994 (GDA 94)
+
+Vermelha
+NT Por 5130
+
+8280000mN
+
+Vermelha
+
+Creative Commons Attribution 4.0
+International Public License
+(CC BY 4.0)
+https://creativecommons.org/licenses/by/4.0/legalcode
+
+177
+
+Department of Environment, Parks and Water Security
+
+dum
+r
+Bi
+
+C Northern Territory Government
+
+196
+
+8290000mN
+
+NT Por 1433
+
+8290000mN
+
+8280000mN
+
+171
+
+Larrimah
+Larrimah
+
+Creek
+
+Township
+
+NT Por 4478
+163
+
+GENERAL FEATURES
+
+(South)
+NT Por 4663
+
+182
+
+Larrimah study areas
+
+Hydro: land subject
+to inundation
+
+Parcel boundary
+Birdum Creek
+
+Town: minor
+
+Larrimah
+
+Pastoral homestead
+
+Vermelha
+
+183
+
+Hydro: drainage
+(non-perennial)
+Spot height (m AHD)
+
+174
+
+Road: highway
+NT Por 3674
+182
+
+Road: minor unsealed
+
+186
+183
+
+Birdum
+Creek
+
+General features data sources:
+
+8270000mN
+
+184
+
+Cadastre, roads, place names:
+
+Forrest Hill
+NT Por 6366
+
+Maryfield
+NT Por 6365
+dum
+r
+Bi
+
+NT Por
+7493
+C
+k
+e
+re
+
+300000mE
+
+Department of Infrastructure, Planning and Logistics
+
+8270000mN
+
+NT Por 3050
+
+Hydro features:
+176
+
+Australian Hydrological Geospatial Fabric (Geofabric) National V2.1.1,
+Commonwealth of Australia (Bureau of Meteorology) 2014.
+Named relief, spot heights:
+
+184
+
+Geodata topo 250K. S3, Commonwealth of Australia (Geoscience Australia) 2006.
+
+Forrest
+Hill
+
+310000mE
+
+320000mE
+
+330000mE
+
+Wubalawun
+Aboriginal Land Trust
+
+MAP LOCALITY
+
+NT Por 2016
+187
+
+LARRIMAH TOWNSHIP LANDFORM DESCRIPTIONS
+
+Important Notice:
+
+NHULUNBUY
+
+DARWIN
+
+provide current and accurate information, but it does not make any guarantees regarding the
+
+Gently undulating to undulating, residual low rises, local relief
+
+7a1
+
+accuracy, currency or completeness of the information.
+
+mostly 4-8m, slopes <1-5%.
+
+Gently undulating to undulating residual low rises within the
+
+7a1
+
+171
+
+JABIRU
+
+LOW RISES
+
+LOW RISES
+
+KATHERINE
+
+Mataranka
+
+Elsey
+
+gently dissected plateau surface; local relief 3-9 m;
+r
+e
+p
+Ro
+
+slopes <1-5%.
+This information is intended as a guide only. It does not constitute professional advice and
+
+Level to gently undulating, residual pediments and plains, local
+
+8a1
+
+relief 1-4 m, slopes <1-3%.
+
+8a1
+
+obtain professional advice relevant to your specific circumstances and needs.
+
+plains, local relief 1-5m, slopes <1-3%.
+
+pediments and plains; local relief 1-5 m; slopes <1-3%.
+
+Vermelha
+Study Area (North)
+177
+
+8a2
+
+0-0.5%.
+
+8b2,8b3
+
+planning and inform development potential over the Larrimah area.
+
+Reports and maps can be viewed from the development opportunities webpage:
+
+STUDY
+AREA
+
+Very weakly dissected, level to gently undulating residual
+TENNANT CREEK
+
+pediments and plains; local relief 1-4 m; slopes <1-3%.
+
+196
+
+Wubalawun
+ALT
+
+Level to very gently undulating plains, local relief <1m, slopes
+
+8b1
+
+The project has identified land capability, water availability and biodiversity values to support land
+
+Very weakly dissected, level to gently undulating residual
+
+Level to gently undulating, residual low ridges, pediments and
+
+8a2
+
+Mapping the Future Project - Larrimah
+
+Mangarrayi ALT
+
+PLAINS
+t
+uar
+St
+
+should not be relied upon for legal, development, investment or other decisions. You should
+
+PLAINS
+
+y
+wa
+h
+g
+Hi
+
+8280000mN
+
+The Department of Environment, Parks nad Water Security has made every reasonable effort to
+
+8280000mN
+
+LARRIMAH AREA LANDFORM DESCRIPTIONS
+
+8b4
+
+8b1,8b2
+
+Level to very gently undulating plains and lower pediment
+slopes; local relief <1-5 m; slopes <0.5-2%.
+
+NORTHERN
+
+Level to very gently undulating plains and lower pediment
+slopes, local relief 1-4 m, slopes 0-1.5%.
+
+8b4
+
+drained seasonal swamps (within the plateau surface); local
+relief 1-2 m above swamps; slopes <1%. Rarely inundated
+
+swamps, local relief 2-3 m, slopes 0-0.5%.
+
+during the Wet season.
+
+Study Area (South)
+
+ALICE SPRINGS
+
+Middle Bridum
+Creek Creek
+
+https://depws.nt.gov.au/DevelopmentOpportunities
+8c1,8c2
+Cruickshank, S. (2021)
+
+Level to very gently undulating plains, local relief <1 m,
+slopes 0-0.5%.
+
+8c1,8c3
+
+Vermelha
+
+TERRITORY
+
+Level lower footslopes, surrounding or adjacent to internally
+
+Level to very gently undulating plains, adjacent to seasonal
+
+Vermelha
+
+Larrimah
+
+H
+i
+gh
+w
+ay
+
+Forrest
+Hill
+
+NT Por 4478
+
+Maryfield
+
+Larrimah
+
+163
+
+Maryfield
+
+Level to very gently undulating plains and lower pediment
+slopes; local relief <1-5 m; slopes <1- 2%, occasionally to
+3%.
+
+Mapping the Future Project - Larrimah.
+Level to very gently undulating plains and lower pediment
+slopes, local relief 1-4 m, slopes 0-0.5%, occasionally to 1.5%.
+
+Technical Report 12/2021
+Department of Environment, Parks and Water Security, Darwin, NT.
+
+Level to gently undulating, broad sandy ridge bordering Cattle
+
+8c4
+
+Level to very gently undulating plains and lower pediment
+
+GENERAL LAND CAPABILITY CLASSES
+
+slopes; local relief <1-5 m; slopes <0.5- 2%, occasionally
+to 3%.
+
+Creek, local relief 1-4 m increasing to 5-10 m adjacent to the
+alluvium, slopes 0-2%.
+
+Duong, A., Stokeld, D. (2021).
+Mapping the Future Project - Larrimah.
+
+Land with negligible constraints
+8c5
+
+Lower footslopes immediately adjacent to Cattle Creek, local
+
+8c5
+
+Biodiversity Assessment of the Larrimah Area.
+
+8c2
+
+Class 1
+
+Gently undulating to undulating, lower footslopes (below Land
+Unit 8c1 and 8c2) immediately adjacent to Birdum Creek; local
+
+manage the land sustainably.
+
+relief 1-5 m above the alluvium; slopes 1-4%.
+
+(Flood-free; gilgai absent, ECe <2 dS/m; ESP <6%; 0-1% slope; >1.0 m soil
+
+relief 1-5 m above the alluvium, slopes 0-3%.
+
+depth; rapid to well-drained soil; no surface rock).
+
+ALLUVIAL PLAINS
+
+Technical Report 13/2021
+Department of Environment, Parks and Water Security, Darwin, NT.
+
+Level to very gently undulating, localised, shallow depressions
+
+8c6
+
+and flats, local relief 0.5-1 m below the surrounding plains,
+
+9a1
+
+slopes 0-0.5%.
+
+Burgess, J., McGrath, N., Andrews, K. and Wright, A. (2015)
+
+182
+
+Channelled floodplain of Birdum Creek; local relief 15-20 m
+Land with minor or moderate constraints
+
+below the plateau surface; slopes <1%. Subject to flooding and
+Class 2
+
+temporary saturation for at least a period of weeks during the
+
+Soil and Land Suitability Assessment for Irrigated Agriculture in the Larrimah Area,
+
+Level to very gently undulating plains and terraced benches
+
+8d1
+
+9a2,9a3
+
+Cattle Creek, slopes 0-1%.
+
+Technical Report 19/2015D
+
+adjacent plateau surface, slopes 0-0.5%, subject to flooding and
+temporary saturation during the wet season.
+
+SWAMPS
+
+NT Por 3050
+Class 3
+
+Closed depressions and seasonal swamps, local relief 3-5 m
+
+Poorly drained seasonal swamps and closed depressions; local
+
+manage the land sustainably.
+
+relief 5-10 m below the plateau surface; slopes <0.5%, up to 1%
+
+(Flooding rare; and/or gilgai vertical interval 0.3-0.6 m; and/or ECe 4-8 dS/m;
+
+near margins. Subject to local inundation during the Wet season
+
+and/or ESP 15-20%; and/or 2-3% slope; and/or 0.25-0.5 m soil depth; and/or
+
+(ARI more frequent than 1 in 2 years).
+
+imperfectly drained soil; and/or 2-10% surface rock).
+
+Maryfield
+
+NT Por 6366
+
+NT Por 6365
+
+below the adjacent plateau surface, slopes 0-0.5%, subject to
+local inundation and saturation during the Wet season.
+
+Department of Envirnoment and Natural Resources, Darwin, NT.
+
+Forrest Hill
+
+184
+
+Require a high level of inputs, expertise and investment to develop and
+
+AY
+W
+H
+G
+I
+H
+T
+AR
+U
+ST
+
+11a1
+
+Technical Report 18/2018D
+
+Birdum Creek
+
+Land with severe constraints
+
+SWAMPS
+11a1
+
+and 4663 in the Larrimah Township Area, Sturt Plateau.
+
+0.5-1.0 m; and/or moderately drained soil; and/or 0-2% surface rock).
+
+Level alluvial plain of Cattle Creek, local relief 10-15 m below the
+
+Agricultural Land Suitability Series, Report 15.
+Soil and Land Suitability Assessment for Irrigated Agriculture on NT Portion 4478
+
+ECe 2-4 dS/m; and/or ESP 6-15%; and/or 1-2% slope; and/or soil depth
+
+the plateau surface, 1-2 m above the channelled floodplain;
+inundation (ARI 1 in 2 to 1 in 10 years).
+
+Department of Land Resource Management, Darwin, NT.
+
+McGrath, N., Andrews, K., Firby, L. Walton, S. and Burgess, J. (2019)
+
+Elevated backplains of Birdum Creek; local relief 15-20 m below
+slopes <0.5%. Subject to moderate duration Wet season
+
+ALLUVIAL PLAINS
+9a1,9a2
+
+183
+
+(Flooding extremely rare; and/or gilgai vertical interval <0.3 m; and/or
+
+marked by outcropping limestone, local relief 2-3 m above
+
+Sturt Plateau.
+
+186
+
+Require a greater level of inputs, expertise and investment than Class 1 to
+develop and manage the land sustainably.
+
+Wet season (ARI more frequent than 1 in 2 years).
+
+Agricultural Land Suitability Series, Report 1.
+
+Birdum Creek
+
+Require only a basic level of inputs, expertise and investment to develop and
+
+Land with extreme constraints
+
+Example of Landform Description
+Landform
+
+Class 4
+
+Landform description
+
+Require an unacceptable level of inputs, expertise and investment to develop
+
+184
+
+and manage the land sustainably; making it either impractical, uneconomic or
+
+Graves, H. (2021).
+
+PLAINS
+Survey site
+
+Groundwater Resource Investigation of the Larrimah Area.
+
+8c5
+
+Lower footslopes immediately adjacent to Cattle Creek, local
+
+(Regular to permanent flooding; and/or gilgai vertical interval >0.6 m; and/or
+
+relief 1-5 m above the alluvium, slopes 0-3%.
+
+ECe >8 dS/m; and/or ESP >20%; and/or >3% slope; and/or <0.25 m soil
+
+Technical Report 29/2021
+
+Forrest Hill
+
+depth; and/or poor to very poorly drained soil; and/or >10% surface rock).
+
+Land unit
+
+Department of Environment, Parks and Water Security, Darwin, NT.
+
+NT Por 7493
+
+environmentally unsound to proceed.
+
+Mapping the Future Project - Larrimah.
+
+300000mE
+
+310000mE
+
+LAND EVALUATION ASSESSMENT CRITERIA
+Flooding
+
+Slope
+
+Vermelha
+
+Birdum Creek
+
+4
+
+8
+
+Soil Drainage
+
+Birdum Creek
+
+Surface Rock
+
+Vermelha
+
+Larrimah
+
+Slope Classes
+
+330000mE
+
+12 km
+
+Vermelha
+
+Larrimah
+
+Flooding Classes
+
+km 0
+
+320000mE
+
+Soil Depth
+
+Vermelha
+
+Larrimah
+
+Birdum Creek
+
+8270000mN
+
+Development Potential of the Larrimah Area.
+
+8270000mN
+
+8c3
+
+Vermelha
+
+Larrimah
+
+Soil Depth Classes
+
+Birdum Creek
+
+Larrimah
+
+Soil Drainage Classes
+
+Birdum Creek
+
+Surface Rock Classes
+
+1
+
+Never
+
+1
+
+Level (0 - 1%)
+
+1
+
+Deep to very deep (>1.0 m)
+
+1
+
+Rapid to well
+
+1
+
+None (0%)
+
+2
+
+Extremely rare
+
+2
+
+Gentle (1 - 2%)
+
+2
+
+Moderately deep (0.5-1.0 m)
+
+2
+
+Moderately well
+
+2
+
+Negligible (0-2%)
+
+3
+
+Rare
+
+3
+
+Substantial (2 - 3%)
+
+3
+
+Shallow (0.25-0.5 m)
+
+3
+
+Imperfect
+
+3
+
+Moderate (2-10%)
+
+4
+
+Regular to permanent
+
+4
+
+Excessive (>3%)
+
+4
+
+Very shallow (<0.25 m)
+
+4
+
+Poor to very poor
+
+4
+
+Abundant (>10%)
+
+

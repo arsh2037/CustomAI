@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CustomAPI</title>
+</head>
+<body>
+    <input type="text" id="userQuery" placeholder="Ask your question here...">
+<button onclick="submitQuestion()">Ask</button>
+<div id="answer"></div>
+
+<script>
+    function submitQuestion() {
+        const query = document.getElementById('userQuery').value;
+        askQuestion(query).then(answer => {
+            document.getElementById('answer').innerText = answer;
+        });
+    }
+    const apiUrl = 'http://127.0.0.1:5000/ask';
+
+async function askQuestion(query) {
+    const response = await fetch(apiUrl, {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({ query: query })
+    });
+
+    const data = await response.json();
+    return data.answer;
+}
+
+// Usage:
+askQuestion('Your question here').then(answer => {
+    console.log(answer);
+    // Update your frontend UI with the answer
+});
+</script>
+
+</body>
+</html>

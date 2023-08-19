@@ -1,0 +1,329 @@
+  2020 Average Enrolment and Suspension Data - Full Year 1,2,3,4,5,6,7
+
+                                                    2020
+
+
+                                        Average     Number of Students
+School                                 Enrolment       Suspended
+
+Acacia Hill School                         90                np
+
+Adelaide River School                      45                0
+
+Alawa Primary School                      319                np
+
+Alcoota School                             20                0
+
+Alekarenge School                         100                0
+
+Alice Springs School of the Air           126                0
+
+Alpurrurulam School                        99                0
+
+Alyangula Area School                     208                np
+
+Alyarrmandumanja Umbakumba School          60                0
+
+Amanbidji School                           14                0
+
+Amoonguna School                           24                np
+
+Ampilatwatja School                        97                0
+
+Angurugu School                            92                np
+
+Anula Primary School                      441                np
+
+Areyonga School                            35                0
+
+Arlparra School                           242                np
+
+Bakewell Primary School                   927                np
+
+Baniyala Garrangali School                 36                np
+
+Barunga School                            100                0
+
+Batchelor Area School                     111                np
+
+Bees Creek Primary School                 381                np
+
+Belyuen School                             27                np
+
+Berry Springs Primary School              242                np
+
+Bonya School                               np                np
+
+Borroloola School                         202                np
+
+Bradshaw Primary School                   512                np
+
+Braitling Primary School                  283                12
+
+Bulla Camp School                          14                0
+
+Bulman School                              66                0
+
+Canteen Creek School                       44                0
+
+Casuarina Senior College                  911                57
+
+Casuarina Street Primary School           416                0
+
+Centralian Middle School                  326                85
+
+Centralian Senior College                 427                45
+
+Clyde Fenton Primary School               208                23
+
+Darwin High School                        1248               45
+
+Darwin Middle School                      865                47
+
+Douglas Daly School                        np                np
+
+Dripstone Middle School                   523                36
+
+Driver Primary School                     519                np
+
+Dundee Beach School                        20                0
+
+Durack Primary School                     463                np
+
+Elliott School                             64                0
+
+Epenarra School                            46                0
+
+Finke School                               29                0
+
+Forrest Parade School                     102                0
+
+Gapuwiyak School                          215                np
+
+Gillen Primary School                     244                0
+
+Girraween Primary School                  505                0
+Gray Primary School              331   14
+
+Gunbalanya School                242   np
+
+Haasts Bluff School              27    0
+
+Harts Range School               66    np
+
+Henbury School                   141   np
+
+Howard Springs Primary School    291   np
+
+Humpty Doo Primary School        393   24
+
+Imanpa School                    18    0
+
+Jabiru Area School               193   np
+
+Jilkminggan School               83    0
+
+Jingili Primary School           311   np
+
+Kalkaringi School                181   0
+
+Karama Primary School            188   np
+
+Katherine High School            551   87
+
+Katherine School of the Air      197   0
+
+Katherine South Primary School   345   np
+
+Kintore Street School            55    0
+
+Lajamanu School                  205   np
+
+Laramba School                   65    0
+
+Larapinta Primary School         372   np
+
+Larrakeyah Primary School        531   0
+
+Laynhapuy Homelands School       129   0
+
+Leanyer Primary School           577   np
+
+Ludmilla Primary School          118   np
+
+MacFarlane Primary School        207   17
+
+Malak Primary School             216   np
+
+Mamaruni School                  57    0
+
+Maningrida College               573   0
+
+Manunda Terrace Primary School   171   np
+
+Manyallaluk School               25    0
+
+Mataranka School                 33    np
+
+Mbunghara School                 18    np
+
+Middle Point School              29    0
+
+Milikapiti School                64    np
+
+Milingimbi School                334   0
+
+Millner Primary School           211   np
+
+Milyakburra School               15    0
+
+Minyerri School                  183   22
+
+Moil Primary School              198   np
+
+Moulden Primary School           271   np
+
+Mount Allan School               46    0
+
+Mulga Bore School                14    0
+
+Murray Downs School              16    0
+
+Mutitjulu School                 33    0
+
+Nakara Primary School            591   np
+
+Nemarluk School                  174   0
+
+Neutral Junction School          22    0
+
+Newcastle Waters School          18    0
+
+Nganambala School                26    0
+
+Nganmarriyanga School            134   0
+
+Ngukurr School                   265   17
+
+Nhulunbuy High School            317   np
+
+Nhulunbuy Primary School         420   np
+Nightcliff Middle School                            365                   27
+
+Nightcliff Primary School                           656                    0
+Northern Territory School of Distance
+Education                                           493                    0
+
+Ntaria School                                       182                   np
+
+Numbulwar School                                    147                   np
+
+Nyirripi School                                     43                     0
+
+Palmerston College                                 1208                  157
+
+Papunya School                                      121                    0
+
+Parap Primary School                                507                    0
+
+Peppimenarti School                                 61                    np
+
+Pigeon Hole School                                  27                     0
+
+Pine Creek School                                   44                    np
+
+Pularumpi School                                    46                     0
+
+Ramingining School                                  266                   np
+
+Robinson River School                               53                     0
+
+Rockhampton Downs School                            26                     0
+
+Rosebery Primary School                             516                   14
+
+Ross Park Primary School                            482                    0
+
+Sadadeen Primary School                             236                   np
+
+Sanderson Middle School                             392                   99
+
+Shepherdson College                                 551                   np
+
+Stirling School                                     17                     0
+
+Stuart Park Primary School                          655                    0
+
+Taminmin College                                   1170                  172
+
+Tennant Creek High School                           201                   np
+
+Tennant Creek Primary School                        396                   29
+
+Timber Creek School                                 37                    np
+
+Tipperary Station School                            np                    np
+
+Titjikala School                                    36                     0
+
+Ti Tree School                                      64                     0
+
+Top End School of Flexible Learning                 83                     0
+
+Urapunga School                                     29                     0
+
+Wagaman Primary School                              300                   np
+
+Wallace Rockhole School                             24                     0
+
+Walungurru School                                   57                     0
+
+Wanguri Primary School                              387                   np
+
+Warruwi School                                      104                   np
+
+Watarrka School                                     np                    np
+
+Watiyawanu School                                   53                    np
+
+Willowra School                                     72                    np
+
+Woodroffe Primary School                            453                   np
+
+Woolaning School                                    np                    np
+
+Woolianna School                                    42                    np
+
+Wugularr School                                     140                    0
+
+Wulagi Primary School                               271                   16
+
+Yarralin School                                     56                    np
+
+Yirrkala School                                     149                    0
+
+Yuendumu School                                     236                    0
+
+Yulara School                                       48                     0
+
+Zuccoli Primary School                              163                    0
+
+
+
+
+1. The average enrolment number is the average enrolments of students over the
+reporting period.
+2. Data in this report is sourced from the NT Department of Education's Enrolment and
+Attendance and Behaviour datasets.
+3. np = not publishable as enrolments are fewer than 12 and/or the number of students
+suspended is lower than 12.
+4. Data is current at the time of publication.
+5. Data on suspensions is subject to change. This data should be considered indicative
+only.
+6. Number of students suspended is the number of individual students who have been
+suspended. A student can be suspended more than once.
+7. From the start of 2018, Rosebery Middle School and Palmerston Senior College were
+combined to form Palmerston College. Kiana School is not included due to temporary
+closure. During Term 2, 2018, Malak Re-Engagement Centre changed its name to Top
+End School of Flexible Learning.
+

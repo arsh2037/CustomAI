@@ -1,0 +1,39 @@
+Site     Hab       UrbChangeGrChangePFYO   APTO   PropSpCh    Glossary
+        1Park      I        D       D      D          -0.01   Hab = Habitat type
+        2EstStreet I        D       D      D          -0.03   Park = Parklands
+                                                              EstStreet = Established
+        3NewStreetI       I        D       D           0.07   streetscape
+                                                              NewStreet = New
+        5Park     I       D        D       D          -0.01   streetscape
+                                                              Native = Native
+        6EstStreet D      NC       D       D           0.03   vegetation
+                                                              UrbChange = Change in
+        7NewStreetI       D        NC      D           0.06   level of urbanisation
+                                                              GrChange = Change in
+        8Native   NC      I        NC      D           0.05   level of greenspace
+                                                              PFYO = Proportion of fire
+        9Park     I       D        D       D          -0.05   years overall
+                                                              APTO = Average
+                                                              proportion of the total land
+                                                              area of the site burned
+       10EstStreet I      D        D       D           0.04   overall
+       11NewStreetI       D        D       D           0.08   I = Increase
+       12Native    I      D        NC      D          -0.06   D = Decrease
+       13Park      D      D        I       I              0   NC = No change
+                                                              PropSpChange = Change
+                                                              in species proportions by
+       14EstStreet I      I        D       D           0.03   primary feeding guild
+       15NewStreetI       I        D       D           0.06
+       16Native    NC     D        I       D           0.07
+       18EstStreet I      I        D       D           0.07
+       19NewStreetI       D        D       D           0.08
+       21Park      D      I        NC      NC          0.04
+       22EstStreet D      I        I       I           0.05
+       23NewStreetI       I        NC      NC          0.18
+       24Native    NC     I        D       D           0.01
+       25Park      I      D        D       D          -0.08
+       27NewStreetI       D        D       D           0.06
+       29Park      I      D        D       D           0.06
+       31NewStreetI       D        NC      D           0.06
+       32Native    D      D        NC      D           0.07
+

@@ -1,0 +1,137 @@
+Site     Hab         UrbChangeGrChangePropFireYearsAvPropTot   Glossary
+        1Park        I        I                   1   0.2146   Hab = Habitat type
+        1Park        I        D                   1   0.2028   Park = Parklands
+        1Park        I        D                0.86   0.1239   EstStreet = Established streetscape
+        1Park        I        D                0.83   0.1294   NewStreet = New streetscape
+        2Eststreet   I        I                   1   0.1222   Native = Native vegetation
+                                                               UrbChange = Change in level of
+        2Eststreet I          D                   1   0.1146   urbanisation
+                                                               GrChange = Change in level of
+        2Eststreet D          I                0.71   0.0411   greenspace
+        2Eststreet I          D                0.67   0.0481   I = Increase
+        3NewstreetI           D                   1   0.4261   D = Decrease
+        3NewstreetI           D                   1   0.3535   NC = No change
+                                                               PropFireYears = Proportion of years
+                                                               a site was burnt in the given time
+        3NewstreetI           D                0.71   0.1886   period
+                                                               AvPropTot = Average proportion of
+                                                               the total land area of the site burned
+        3NewstreetNC          I                0.83   0.1076   in m2
+        4Native    I          D                   1   0.7249
+        4Native    D          I                   1   0.8304
+        4Native    I          D                0.86   0.4818
+        4Native    NC         I                   1   0.3779
+        5Park      I          D                 0.5   0.0143
+        5Park      I          D                 0.4   0.0068
+        5Park      D          I                0.14   0.0026
+        5Park      I          D                0.17   0.0008
+        6Eststreet D          I                0.33   0.0046
+        6Eststreet I          D                 0.2   0.0007
+        6Eststreet D          I                0.14   0.0005
+        6Eststreet D          D                0.17   0.0004
+        7NewstreetD           D                0.83   0.3803
+        7NewstreetNC          I                 0.8   0.3299
+        7NewstreetI           D                0.43    0.193
+        7NewstreetI           D                0.83   0.0966
+        8Native    NC         I                   1   0.5973
+        8Native    NC         I                 0.8   0.2425
+        8Native    NC         D                0.71   0.3839
+        8Native    NC         I                   1   0.4148
+        9Park      I          I                   1    0.246
+        9Park      I          D                   1    0.231
+        9Park      I          NC               0.86   0.1722
+        9Park      I          D                0.83   0.1679
+       10Eststreet I          I                0.83   0.0479
+       10Eststreet I          D                 0.4   0.0211
+       10Eststreet D          I                0.57   0.0077
+       10Eststreet I          D                0.33   0.0055
+       11NewstreetI           D                0.83   0.1032
+       11NewstreetI           D                 0.8   0.0255
+       11NewstreetNC          NC               0.71   0.0139
+       11NewstreetI           D                0.33   0.0073
+       12Native    I          D                   1   0.2919
+       12Native    I          D                   1   0.2671
+       12Native    I          D                   1   0.2499
+       12Native    I          I                   1   0.2084
+       13Park      D          I                   0        0
+       13Park      I          D                   0        0
+       13Park      I          D                   0        0
+       13Park      I          D                0.33   0.0006
+       14Eststreet I          D                0.33   0.0314
+       14Eststreet I          NC                0.2   0.0121
+       14Eststreet D          I                0.14   0.0073
+       14Eststreet D          NC               0.17   0.0078
+       15NewstreetD           I                0.67   0.2565
+       15NewstreetD           D                 0.8   0.1215
+       15NewstreetI           D                0.29   0.0303
+       15NewstreetI           D                0.17   0.0017
+       16Native    D          D                0.83   0.3473
+       16Native    NC         D                 0.8   0.2913
+       16Native    I          D                0.57    0.155
+16Native    D    D       1   0.1969
+17Park      I    D       1   0.0261
+17Park      I    I     0.8   0.0081
+17Park      D    NC   0.57   0.0047
+17Park      D    D     0.6   0.0024
+18Eststreet I    I       1      0.11
+18Eststreet I    D       1   0.0885
+18Eststreet D    I    0.71   0.0348
+18Eststreet I    D    0.67   0.0326
+19NewstreetI     D       1   0.4261
+19NewstreetI     D       1   0.3535
+19NewstreetI     D    0.71   0.1886
+19NewstreetI     I    0.83   0.1033
+20Native    I    I       1      0.43
+20Native    D    I       1   0.3376
+20Native    I    D       1   0.3788
+20Native    NC   I       1    0.247
+21Park      I    I       0         0
+21Park      I    D       0         0
+21Park      D    D       0         0
+21Park      D    D       0         0
+22Eststreet D    I    0.17   0.0021
+22Eststreet I    D     0.2   0.0011
+22Eststreet I    D    0.14   0.0011
+22Eststreet D    D    0.67   0.0048
+23NewstreetI     D       0         0
+23NewstreetI     D       0         0
+23NewstreetD     I    0.14    0.002
+23NewstreetI     I       0         0
+24Native    I    D    0.83   0.0625
+24Native    D    NC      1   0.1266
+24Native    NC   D    0.29   0.1101
+24Native    NC   I    0.17   0.0552
+25Park      I    I       1    0.246
+25Park      I    D       1    0.231
+25Park      I    NC   0.86   0.1722
+25Park      I    D    0.83   0.1679
+26Eststreet I    I       1   0.0549
+26Eststreet I    D       1   0.0488
+26Eststreet D    NC   0.57   0.0253
+26Eststreet I    D    0.83   0.0277
+27NewstreetI     D       1   0.4261
+27NewstreetI     D       1   0.3535
+27NewstreetI     D    0.71   0.1886
+27NewstreetI     I    0.83   0.1033
+28Native    I    D       1   0.7249
+28Native    D    I       1   0.8304
+28Native    I    D    0.86   0.4818
+28Native    NC   I       1   0.3779
+29Park      I    D     0.5   0.0031
+29Park      I    D     0.2   0.0008
+29Park      NC   D       0         0
+29Park      D    D       0         0
+30Eststreet I    D       0         0
+
+30Eststreet NC   NC      0        0
+30Eststreet D    I       0        0
+30Eststreet D    NC      0        0
+31NewstreetD     D    0.83   0.3803
+31NewstreetNC    I     0.8   0.3299
+31NewstreetI     D    0.43    0.193
+31NewstreetI     D    0.83   0.0966
+32Native    D    I       1   0.3465
+32Native    NC   NC      1   0.2643
+32Native    I    D    0.57   0.2088
+32Native    D    NC      1    0.233
+
