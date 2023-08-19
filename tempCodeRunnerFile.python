@@ -1,0 +1,6 @@
+print("hello sneha")
+
+fruitsList=["apple","banana","mango"]
+
+for fruit in fruitsList:
+    print(fruit)
