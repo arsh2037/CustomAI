@@ -1,0 +1,1257 @@
+                                      Warramiri Yolŋu cosmology: an introduction | Ben van Gelderen, Kathy (Gotha) Guthadjaka,
+                   Linda Ford, James Walun Bukulatjpi, Chloe Ford, Emily Ford, Bettina Danganbarr, Pawinee Yuhun and Ruth Wallace
+
+
+56
+                        Warramiri Yolŋu cosmology: an introduction
+
+                      Ben van Gelderen                                          Kathy (Gotha) Guthadjaka
+
+            College of Education, Charles Darwin                      Northern Institute, Charles Darwin University
+                         University
+                                                                              kathy.guthadjaka@cdu.edu.au
+             bvangelderen@nungalinya.edu.au
+
+                          Linda Ford                                             James Wäluŋ Bukulatjpi
+
+        Northern Institute, Charles Darwin University                                  Warramirri Elder
+
+                    linda.ford@cdu.edu.au
+
+                          Chloe Ford                                                      Emily Ford
+
+        Northern Institute, Charles Darwin University                 Northern Institute, Charles Darwin University
+
+                   chloe.ford@cdu.edu.au                                           emily.ford@cdu.edu.au
+
+                     Bettina Danganbarr                                                Pawinee Yuhun
+
+               danganbarr.bettina@gmail.com                           Northern Institute, Charles Darwin University
+
+                                                                               pawinee.yuhun@cdu.edu.au
+
+                                                         Ruth Wallace
+
+                                      Northern Institute, Charles Darwin University
+
+                                                  ruth.wallace@cdu.edu.au
+
+
+     Keywords: Indigenous cosmology; Warramiri Yolŋu; ‘Bothways’ philosophy; Gäwa
+
+
+     Introduction
+     Even within the western academic tradition, cosmology is a complex and contested domain; fields
+     of science, philosophy and anthropology all utilise the term in particular ways, to highlight specific
+     concerns. Interactions with Indigenous cosmological theories and practices further stretch and challenge
+     any attempt at an inclusive definition. For present purposes, we have positioned this introduction to
+     Warramiri Yolŋu cosmology in the metaphysical realm of definitions, interacting with systems of ontology
+     (reality, what/how of existence), epistemology (truth, what/how of knowing) and axiology (ethics, what/
+     how of value). Regarding Indigenous cosmologies, Keen offers a helpful distinction: ‘‘Cosmology’ means
+     the body of concepts and doctrines about the origins and properties of the world and its inhabitants.
+     ‘Cosmogony’ refers specifically to doctrines about the origins of things’ (Keen, 2004, p. 210). Whilst
+     clarifying the definitional sphere of the term for this paper, it becomes readily apparent that cosmology is
+     still a very broad concept, covering the origin of all matter and its inherent properties and relationships.
+     By this understanding, almost all ethnographic terms utilised by twentieth century Balanda (white)
+     researchers such as kinship, creation ‘mythology’, totemism etc. can potentially be incorporated into a
+     discussion of Aboriginal cosmology. However, this paper is located within a specific research project,
+     namely ‘Aboriginal Cosmology: what this means for women and gender public policy1’ and functions as
+     both an initial literature review for the project and a forerunner for the methodological principles pursued
+     throughout. Furthermore, to ensure meaningful, generative outcomes, the small Warramiri community at
+     Gäwa was chosen to situate the research project, thus very broad issues of cosmology have been given
+     a specific locale as a focus. Overall, in honouring the commitment to transdisciplinary and ‘bothways’
+     1 	    Australian Research Council Discovery Indigenous Programme funding code (IN170100020).
+                                                                              Learning Communities | Number 24 – October 2019
+
+
+
+                                                                                                                       57
+research methodologies in Yolŋu communities, we focus on local perspectives and narratives from the
+homeland community at Gäwa to outline an introduction to Warramiri cosmology.
+
+
+Methodology
+
+       For a Balanda who can only learn from books, this is not enough. They can’t get the real
+       meaning of Yolngu life from books because the social and religious aspect of life is so
+       diverse, that sometimes, we can only learn about one side of the story, or one aspect of the
+       Yolngu ontology, but there are other areas, so diverse, that all fit in one whole universe…
+       (Anthropologists) had the privilege of learning about our life. But they wrote it down and
+       recorded it as if it were from a fairytale, as if it were dead… (and) presented the knowledge
+       in a box, like a coffin with the name “dreaming” on it. It was like a dead corpse in a box
+       delivered to the wider society. (Marika-Munuŋgiritj, 1991, p. 22, 24)
+
+This significant quote from renowned Yolŋu educator and philosopher, Marika-Munuŋgiritj, raises
+immediate methodological challenges for our introduction to Warramiri cosmology. Firstly, many of the
+‘classic’ texts which have engaged with Yolŋu cosmology and could inform this paper, are the specific
+anthropological works she critiques. Secondly, she squarely raises the question of whether there is any
+value for Balanda in such literature informed introductions; ‘they can’t get the real meaning of Yolngu
+life from books’. Lastly, she alludes to the difficulty of comprehending the Yolŋu cosmos overall, the
+interconnectedness of the various elements necessitating a holistic (and therefore detailed and lengthy)
+approach. Indeed, Rudder, who spent decades living and learning at Galiwin’ku, reflected that ‘it is
+extremely difficult if not impossible to take any single element of the Yolŋu cosmos and examine it in
+isolation. No part of the cosmos exists in isolation but all are related in many directions to other parts.
+Each specific identified element becomes the focus of a set of relationships which links other elements
+as part of the overall network; each of these in turn links to other elements and this pattern of interrelated
+elements continues without boundaries or limits’ (Rudder, 1993, p. 26). Nevertheless, we believe that
+some form of basic introduction to the history and cosmology of the Warramiri will enable the Balanda
+members of the research team to best analyse and apply their understanding for positive outcomes
+in relation to gender, women and public policy, which is the ultimate focus of the project. Indeed, as
+Marika-Munuŋgiritj advises in the same work, Balanda researchers should use ‘their learning to help
+Yolngu in their battle for cultural survival… (to) provide help for the future development of Yolngu’
+(Marika-Munuŋgiritj, 1991, p. 25), and we believe that an appropriate literature review should facilitate
+this priority. However, the question remains; how to conduct a literature review that engages with the
+inherent challenges outlined above? In this regard we argue that an appropriation of some elements of
+the ‘bothways’ educational philosophy and the transdisciplinary and generative research methodologies
+as developed by Christie and associates at Charles Darwin University with Yolŋu collaborators over
+many years is highly appropriate2. Indeed, as has been noted in relation to Yolŋu research methodology
+from a community development project at Galiwin’ku, that ‘the act is primary, whether it be gardening,
+or talking about a garden… there is no difference between the correct ways to do negotiation, and the
+correct ways to do gardens’ (Christie, 2013b, p. 52), then, we argue, ‘doing a literature review’ should
+attempt to also follow these ‘correct ways’, as possible. Thus, some of the guiding principles for our
+‘bothways’ literature review have been modelled on key themes from long-standing collaborations with
+Yolŋu researchers and are summarized in brief:
+
+       - Foreground the local, Warramiri perspective. In particular, we utilise extensive quotes to retain
+       the specific language and imagery utilised by Warramiri Elders, if possible in Warramiri language
+       itself; ‘sticking to your own language is a sign that you are taking your ancestral responsibilities
+       seriously and can speak on behalf of land’ (Christie, 2013b, p. 47).
+       - Avoid generalising, even with regard to an overall Yolŋu cosmology, as ‘every Yolngu claims
+
+2 	    Significant multi-year research projects such as ‘Indigenous Knowledge Traditions, and Digital technology’
+(http://www.cdu.edu.au/centres/ik/ikhome.html), ‘Teaching from Country’
+(http://learnline.cdu.edu.au/inc/tfc/index.html) and ‘ICT and Capacity Building in Remote Communities’
+(http://www.cdu.edu.au/centres/inc/) all directly involved Yolŋu co-researchers and Guthadjaka specifically.
+                                      Warramiri Yolŋu cosmology: an introduction | Ben van Gelderen, Kathy (Gotha) Guthadjaka,
+                   Linda Ford, James Walun Bukulatjpi, Chloe Ford, Emily Ford, Bettina Danganbarr, Pawinee Yuhun and Ruth Wallace
+
+
+58
+           and celebrates their identity through (their) land-based language and culture complexes... you
+           can only tell your own story...(with a) focus on particular themes, concepts, viewpoints etc., at the
+           expense of others’ (Christie, 2004, p. 5). In fact, the aim is to build ‘shared understandings around
+           particular cases, rather than a general theory of what’s going on… the ambiguity of the situation
+           may help everyone to rethink or renew’ (Christie, 2013, p. 10).
+           - As alluded to above, the review should be part of a ground-up, generative process, ‘we are
+           activists, and as such our work is useless if it does not address the public problems of people’s
+           life ways’ (Christie, 2013, p. 11). In this case, the substantive project analysing and advocating for
+           quality public policy in regards to women and gender issues is the rationale for the review.
+           - Reject notions of ‘epistemic equality’ as Yolŋu dismiss ‘the idea that anyone can potentially know
+           anything, and everyone knows in the same way…they also rejected the assumption that everyone
+           does or can know the same things in the same way’ (Christie, 2013b, p. 49). In this instance,
+           although Warramiri Elders at Gäwa routinely involve all community members in decisions (e.g.,
+           Guthadjaka, 2012), as ‘each participant occupies an expert opinion… and communication entails
+           building shared understandings among positions’ (Christie, 2008, p. 41), the Elders themselves
+           assume the role of speaking on behalf of the community and are the ones quoted.
+           - Maintain, where possible, a narrative focus because ‘beginning with a story plunges us to the
+           core of the work involved in philosophy and dialogue, already enmeshed in detail’ (Verran &
+           Christie, 2011, p. 24).
+           - Overall, explicitly acknowledge that the ‘transdisciplinary’ nature of Indigenous research will
+           provide only partial satisfaction to either party’s knowledge traditions. Particularly, ‘non-Indigenous
+           academics must guard against any attempt to exhaustively define Indigenous research (for to do
+           so would in itself be an act of colonisation or appropriation) or to claim all its results. We can never
+           know fully’ (Christie, 2006, p. 80).
+     Thus, we will not attempt to categorize Warramiri Yolŋu cosmology by topics (time, space, birth,
+     relationships, death etc.) nor will we focus on cosmogony narratives per se, but will foreground (largely
+     unpublished) conference presentations and formal speeches by Elder Guthadjaka and/or local Gäwa
+     and Galiwin’ku narratives which shed light on Warramiri metaphysical foundations. Below are assembled
+     a number of stories and texts which form the basis of the paper. Support from reflections from past
+     Warramiri Elders, such as Burrumarra (already in the public domain), will also be considered, and
+     previous studies (by Yolŋu and Balanda) which have engaged with Yolŋu metaphysical categories will
+     be referred to in a ‘bothways’ fashion. Our ultimate hope is that out of the interplay of these sources, new
+     understanding may emerge: ‘our experiences may not provide many take-home messages for others in
+     similar contexts beyond those they know themselves. They may however strengthen the resolve to work
+     on research truth and method as both fundamentally local’ (Christie, 2009, p. 33).
+
+
+     Context and positionality
+     Compared to many Yolŋu clans, there is a significant body of work on the specific cosmology of the
+     Warramiri; the yirritja clan of the coral reef and the deep sea (Burrumarra, 1977).
+                                                                            Learning Communities | Number 24 – October 2019
+
+
+
+                                                                                                                      59
+Figure 1. The many faces of David Burrumarra
+
+
+
+
+Drawing by Julia Blackburn
+
+This is almost exclusively due to the charismatic figure of David Burrumarra. In a lifetime spanning pre-
+Mission contact, all the way through to the 1990s debates on reconciliation and republicanism (McIntosh,
+1994), Burrumarra contributed heavily to the incredible transformation of Yolŋu society in this period. It is
+well acknowledged that his life and work ‘had a marked impact on the history of Arnhem Land’ (Williams,
+1994, p. 121). Furthermore, he actively courted anthropologists, linguists, missionaries, teachers and
+psychologists in a concerted attempt to both understand the new Balanda culture and, crucially, to help
+Balanda understand and appreciate Yolŋu. Throughout this process he organised for much sacred/
+secret ‘inside’ knowledge of Warramiri to be made available to the general public. These were often
+highly controversial moments, and Burrumarra’s initiatives (reflections on identity) serve as integrated
+exemplars of a Warramiri cosmology, outlining the Warramiri belief that they, amongst the existing yirritja
+clans ‘have a mandate for mediating relations with outsiders’ (McIntosh, 1997, p. 43); of negotiating the
+interplay between traditional cosmology and public policy directives.
+
+Burrumarra’s ‘vision of the future in which the world will be as it was, but with Aborigines having all
+the conveniences of the twentieth century’ (McIntosh, 1994, p. 27) including access to and learning
+of traditional Warramiri land and culture, bilingual education and Christianity simultaneously, was
+just becoming realised at the time of his passing. For, around the same time, Guthadjaka, following
+the instructions of her clan-father, and supported by various kinship relations began the process of
+establishing Gäwa homeland, a significant Warramiri ancestral estate on the tip of Elcho Island, as
+a settled community. It is an inspiring narrative of practical perseverance, resilience and partnership
+(Baker, Garŋgulkpuy & Guthadjaka, 2014; Nungalinya, 2017). As of 2018, Gäwa community is well
+established, with its own permanantly staffed school (Gäwa Christian School), (mostly) all-weather road,
+airstrip, barge landing and registered Aboriginal Corporation to support micro-enterprise development. In
+the educational sphere in particular, Guthadjaka readily acknowledges that she has continued the work
+of Burrumarra (‘we all have leaders and my leader was David Burrumarra’; Guthadjaka, 2018c) through
+both sharing Warramiri cosmological foundations and leveraging support from educational instuitions
+and organisations who share like-minded goals to enhance the Gäwa community. She has recently
+been recognized3 for decades of contribution to community development at Galiwin’ku and Gäwa, and
+3 	     Guthadjaka (Gotha) is the Senior Australian of the Year, for the Northern Territory, was awarded an MBE for
+services to education and community development and an honorary doctorate from Charles Darwin University, all in
+2018.
+                                      Warramiri Yolŋu cosmology: an introduction | Ben van Gelderen, Kathy (Gotha) Guthadjaka,
+                   Linda Ford, James Walun Bukulatjpi, Chloe Ford, Emily Ford, Bettina Danganbarr, Pawinee Yuhun and Ruth Wallace
+
+
+60
+     in education explicitly, for elucidating bilingual and intercultural, Warramiri cosmological implications for
+     policy and practices. It is a number of her formal presentations and speeches in receiving these accolades
+     that we draw upon. Building on Burrumarra’s theorizing, she has also shared various ‘metaphors’ to
+     outline the foundation of negotiated balance and mutual progress between pairings such as community-
+     school, teacher-student, English-Warramiri. These include key concepts such as lonydju’yirr (being side-
+     by-side), rrambaŋi marŋgithirr (together learning) and gumurrkunhamirr (establishing relationship) which
+     have been analysed elsewhere (van Gelderen & Guthadjaka, 2019a).
+
+     Ben van Gelderen lived and worked at Gäwa and was inculcated into the Warramiri ‘bothways’ educational
+     philosophy through team-teaching with Guthadjaka. Throughout the last decade they have collaborated
+     in designing the Warramiri website to house digital resources for the transmission of traditional Warramiri
+     language and culture, and have co-authored a number of presentations/papers based on community
+     research at Gäwa on homeland ‘on country’ education and ‘bothways’ approaches (van Gelderen &
+     Guthadjaka, 2019b). Ben was adopted into the gurruṯu kinship system as Guthadjaka’s son, and believes
+     this was highly strategic. It established him as a ‘caretaker’ for Warramiri interests at Gäwa, but without
+     any direct land affirming rights, positioned him to listen, learn and respect Guthadjaka’s perspective,
+     and most importantly, allowed him the freedom of a ‘child’ to ask simple questions when he should
+     know better by now! In short, although Ben still feels inadequate to understand and convey Warramiri
+     cosmology, he is confident, after a number of years of iterative conversations and interactions, that he (in
+     conjunction with the co-authors) can assist in structuring Warramiri sharings for other interested Balanda
+     to be introduced and better appreciate the Warramiri cosmology.
+
+
+     Land axiology
+     Guthadjaka’s first published academic text emanated from her work with the ‘Teaching from Country’
+     program. In a summary session for the initiative, she shared her understanding of the vital connection to
+     country in a child’s growth into identity. Some excerpts:
+
+      Ga manymak. Ŋayi ŋuli djamarrkuli Yolŋunydja                Okay. So, when the Yolŋu children learn on
+      ŋunhaldja wäŋaŋur ga marŋgithirr, ŋayi                      country, they are safe inside themselves, and
+      dhu djinawan’ ŋunhal nhanŋu mulka’yirr ga                   confident to go forward.
+      marrparaŋdhirr ŋayi dhu marrtji.
+      Ŋunhi nhakun walal marŋgi, wäŋaw, wäŋaw                     So you see, they know the land, they know the
+      walal marŋgi, ga wataw, ga gapuw, nhätha dhu                land and the breezes, and the water, what time
+      ŋurruthirri, ga nhätha dhu raŋithirr, bili wäŋaŋur          the tide will be in, when it will be out, because
+      walal ga marŋgithirr ŋunhili banydji, ga ŋayiny             they are learning on country, and he grows with
+      marrtji walalaŋ ŋuthan ŋuruŋiyi marŋgithinyaray.            them, by means of that learning.
+      Ga dhuwandja nhakun Balanda teaching, ga                    But in Balanda teaching, they are sitting in the
+      dhiyala yaŋara’ŋur gapuŋur walal ga nhina,                  water tributary, and getting education from there,
+      ga dhipuŋur walal ga educationdja märram,                   just from the one source, like it’s the Balanda
+      waŋgany yän, dhipuŋur bili, dhuwal gapu, nhakun             spring flowing here, so they just get a little trickle,
+      dhuwandja Balandaw gapu maŋutji, dhuwal ga                  not a full stream, they get a little knowledge.
+      marrtjiny ga walalndyja ga dhiyala djurryurr gapu
+      yaka full gapu, nyumukuniny walal ga märram,
+      marŋgikunhawuy.
+      Ŋunhi one nhawi picture, ga dhuwal rrakal dhäwu             That’s one picture, and here is a story given to
+      gurrupan waŋganydhu old man Mäpuru’ŋur                      me by one old man from Mäpuru, from around
+      ŋayi ga dhäwu lakaram, dhuwandja nhakun                     there are hills there, with the mists and spider’s
+      buku’u wäŋa, ga wakuluŋgul ŋayi dhiyal nhina                webs, and the water goes to there, and then the
+      malany, gädany, ga gapu ŋayi marrtji dhipal, bala           water comes out from here.
+      dhawatthurr ŋayi ga gapu dhipuŋurdja.
+                                                                        Learning Communities | Number 24 – October 2019
+
+
+
+                                                                                                                 61
+ Raypiny gapu bala wanawanany ŋayi li djäma            Making fresh water in all the little branches
+ dhuwal ŋunhi dhipal bäpurruw marrtji gapu,            belonging to the various clan groups, to there,
+ ga dhuwal dhipal, dhuwal dhipal, bala ŋayi ga         and continuing on, to there, and they meet, the
+ continue marrtjin badaknha yän, ga dhiyaldja,         fresh and the salt water. That’s it.
+ bala manda ga gumurr-bunanhamirr raypiny
+ gapu, ga damurruŋ’ gapu. Dhuwandja.                   They meet, and those different tribes receive
+                                                       learning, this one and this one and this one,
+ Bala gumurr-bunanhamirr, ga                           Yes, all the different Yirritja waters, like for the
+ marŋgikunhawuydja ga dhiyaŋ bäpurruy märram,          Madarrpa people, the Warramiri, the Gandaŋu,
+ ga dhiyaŋ, ga dhiyaŋ, dhiyaŋ gäna’kana,               Meliway, many many clan groups, they get water
+ warrpam’ muka gapu dhuwal Yirritja walalaŋ            from here, not just one water.
+ wäŋa, balanya nhakun Madarrpa, Warramiri,
+ nhawi Gandaŋu malany, Meliway, dharrwa          So, the water runs, and at the sea, it places its
+ dharrwa bäpurru’ malany, walal ga gapu dhipuŋur feet down. Standing with its foundation.
+ märram, yaka yän waŋgany gapu.
+
+ Ga wandirri ŋayi li ŋunhi gapuny, damurruŋ’ŋurdja
+ bala ŋayi li ŋunhi luku-nhirrpana ŋunhiliyi.
+ Djalkirimirra dhärran ga nhakun.
+ Ŋunhi ŋurruŋun bittja ŋarra milkuŋal, ŋunhi           But that picture I showed you before, the students
+ djalkirimiriw. Dhiyal gan ŋäthinyamirr yolŋu’yulŋu.   are without foundations. Crying there to each
+ Balanya nhakun ŋunhi scriptureŋur ga lakaram,         other, just like the scriptures say; ‘By the rivers of
+ ‘By the rivers of Babylon’, ŋunhiyi ga teaching       Babylon’, getting the teaching, when they were
+ märram, ŋunhi walal ga ŋäthinyamirri walal ŋayi       crying together, and the government says:
+ dhu gapman’thu bitjan waŋa-
+                                                       ‘Okay, give us a story’.
+ ‘Ma’ dhäwu napurruŋ gurrupul!’
+
+ Ga walaldja ŋuli waŋan djamarrkuliny, ‘Nhaltjan       And the children say: ‘How can we sing a song
+ napurr dhu dar’taryun wäŋaŋurnydja, nhawi             in this place, here singing in a strange land, we
+ manikaynydja, dhuwandja napurr ga mulkuruŋur          can’t sing or tell a story or teach, because that
+ wäŋaŋur dar’taryundja, nhawi nhinan, bäyŋu            law of the (Balanda) water has taken it.’
+ napurr dhu dar’taryun wo dhäwu lakaram, wo
+ marŋgikum, bili ŋuruŋiyi ŋayi romdhu djaw’yurr
+ gapuy.’
+(Guthadjaka, 2010, p. 26-29).
+
+In 2013, as part of community research into the ‘bothways’ philosophy of education at Gäwa, Guthadjaka
+also shared a re-working of the classic ‘Djuranydjura’ tale concerning ‘Macassans’ visiting Yolŋu lands
+for trade.
+
+      This is the Djuranydjura story; the Macassans came here and built their houses and they
+      said: ‘Do you want blankets?
+
+      ‘No, I have paperbark’
+
+      ‘Do you want some shoes?’
+
+      ‘No, I have my feet.’
+
+      ‘Do you want rice?’
+
+      ‘There is food for me in the bush. I am looking after the land, so the land will take care of
+      me’.
+                                       Warramiri Yolŋu cosmology: an introduction | Ben van Gelderen, Kathy (Gotha) Guthadjaka,
+                    Linda Ford, James Walun Bukulatjpi, Chloe Ford, Emily Ford, Bettina Danganbarr, Pawinee Yuhun and Ruth Wallace
+
+
+62
+            There are many Djuranydjura stories, Macassan stories. Like the Balanda, as they come
+            in, their thinking is to build something here, in the Yolŋu community. But they don’t ask first
+            “What do you need?” It’s just like they are bringing new ideas, from the ‘mainstream’. And
+            they end up failing, feeling bad, packing up their things and leaving. And they leave because
+            they had come with their own thinking. And here, when Balanda come into the school with a
+            new law, they need to talk backwards and forwards, bring ‘both ways’ communication first.
+            And then we can move together.
+
+            And s/he changed language there (at Ṉaŋinyburra homeland, next to Gäwa) from Gupapuyŋu
+            to Warramiri because of the breeze. S/he said: ‘I’m going to stay here at Ṉaŋinyburra
+            because it was the wind that brought me this way’... Yes, we need the wind of the Spirit as
+            a cleansing for us. (van Gelderen & Guthadjaka, 2019a, p. 252)
+
+     Space does not permit a detailed analysis of Guthadjaka’s sharings, and we wish for them to speak for
+     themselves. However, at the broad level, it is clear that a profound educational philosophy is espoused,
+     that a foundation for all learning is being situated upon one’s ancestral estates; an ‘on country’ and
+     ‘through country’ homeland fundamental. It is interesting to note that this focus is contrasted to Balanda
+     practices of only receiving a ‘trickle’ of knowledge, inside the classroom walls, compared to exposure
+     to the full streams which stem from traditional interactions of the various Yolŋu clans. This theme of
+     the deep sea Warramiri water and the complex interactions with the fresh water’s journey has also
+     been outlined further in terms of cosmological lessons for conflict resolution and governance among
+     Yolŋu clans (Guthadjaka, 2015). Furthermore, from the Djuranydjura narrative we learn of the reciprocal
+     relationship with such ancestral estates (I am looking after the land, so the land will take care of me),
+     and that there is an expectation that Balanda will enter into some of the same kind of negotiation and
+     balancing of priorities (need to talk backwards and forwards, bring ‘both ways’ communication first)
+     that is characteristic of Warramiri agreement making. Suffice it to say, the story of Gäwa and the local
+     school situated there is a living embodiment of the pre-eminence of land (and sea) in the Warramiri
+     axiology; the value and ‘rightness’ of caring for it, of learning on and through it and of learning from it for
+     other interpersonal and interclan relationships. In this regard, there are strong parallels with the work
+     of Marika-Munuŋgiritj who centres her ‘Yolngu Djalkiri Cosmology’ (Marika-Munuŋgiritj, 1991, p. 20) on
+     the image of djalkiri, which ‘literally means foot or footprint, but it symbolises the foundation, where the
+     human being actually comes into contact with the land, his or her environment. The hidden meaning is
+     our core, or foundation’ (Marika-Munuŋgiritj, 1991, p. 18). Indeed, her words resonate with Guthadjaka’s:
+
+            From the Yolngu perspective of the land we learn from the start of its fundamental importance
+            and how we learn to value the land for the abstract, deep and common knowledge that is
+            derived from the land, giving us meaning and identity. The spiritual, religious and social
+            order of connectedness to the land gives us meaning and identity through the knowledge
+            of understanding everything that is linked to one another. (Marika-Munuŋgiritj, 1991, p. 22)
+
+     In line with the methodological framework pursued, we now broaden out the lens to incorporate other
+     Yolŋu and Balanda theorists. Many of Burrumarra’s initiatives had as their foundation a desire to further
+     Balanda appreciation of land (and sea) rights of Warramiri and other Yolŋu. He was nicknamed the
+     ‘father of Aboriginal sea rights’ (McIntosh, 2015, p. 224) and in his famous ‘Flag Proposal’, Burrumarra
+     constructed a new ‘national’ flag design, with sacred Warramiri images (of riŋgitj ancestors) but also
+     including the Union Jack, as the sacred symbol of the Balanda (Figure 2). Burrumarra spoke of the flag
+     initiative as a ‘Treaty’ proposal; a path of reconciliation:
+
+            Birrinydji in the past dictated that we must honour him and follow his law...Today, people live
+            as one group...We live by a new law. Our histories have merged. (McIntosh, 1999, p. 75) 4
+
+     4 Burrumarra’s collaboration with McIntosh forms the most significant academic literature concerning Warramiri
+     cosmology. Biographical essays of Burrumarra (McIntosh, 1994), evolved into a detailed doctoral thesis (McIntosh,
+     1997), a monograph concerning Warramiri cosmology in the context of the Australian reconciliation movement
+     (McIntosh, 1999). Lastly, a string of articles directly inspired by his work with Burrumarra, but enhanced by recent
+     archaeological and historical discoveries has been published; Between Two Worlds: Essays in Honour of the
+     Visionary Aboriginal Elder, David Burrumarra (McIntosh, 2015).
+                                                                            Learning Communities | Number 24 – October 2019
+
+
+
+                                                                                                                     63
+Figure 2. Warramiri ‘Flag Treaty’ Proposal
+
+
+
+
+McIntosh, 1997
+
+A further, pertinent symbolic example occurred at a press conference held during Burrumarra’s own
+funeral in 1994. The Manbuyŋa ga Rulyapa proposal was released (to alter the Land Rights Act
+(NT) whereby Indigenous ownership only extended as far as the shoreline5), outlining a plan for joint
+management of the Arafura Sea (where significant Warramiri ancestral stories lie through the whale and
+other beings); ‘to see both Aboriginal and non-Aboriginal knowledge combined in the management of
+the sea and for the Warramiri and other Aborigines to progressively reassume responsibility for various
+levels of its care, based on customary law’ (McIntosh, 1997, p. 34). In the same era, Goṉḏarra also
+summarizes the profound ethical, reciprocal responsibilities by explaining ‘the land is my mother. Like a
+human mother, the land gives us protection, enjoyment and provides for our needs-economic, social and
+religious’ (Yule, 1980, p. 8). However, the remainder of the ‘My Mother, the Land’ booklet demonstrates
+how this is a generic metaphor largely for the benefit of Balanda; various mala (clan) leaders outline the
+complex, overlapping, interconnected responsibilities towards land emanating from the gurruṯu kinship
+system (with associated historical/political caretaker roles) determining ethical responsibilities to speak
+(or not to speak) on behalf of, and care for, numerous, very specific portions of land. Of course, all
+Yolŋu ceremonial performances comprise of both land and sea song series (Magowan, 2001), and the
+interaction of salt and fresh water, sea currents and wind, moon etc. are particularly powerful exemplars
+of the overall Yolŋu cosmological empahsis of diversity within unity; ‘co-substantive essences allow
+groups and individuals to identify themselves as distinct yet united’ (Magowan, 2001, p. 32). Or as
+Tamisari notes: ‘Yolngu repeatedly remarked to me: ‘We are the same’, or ‘we are on the same line,
+share the same songs and dances and the same sacred objects, yet we are different’. As the Yolngu
+refrain goes ‘one and many, together and alone, close and far apart’ (wanggany ga dharrwa; rrambangi
+ga gaana, galki ga barrkuwatj respectively)’ (Tamisari, 1998, p. 260).
+
+Thus, there is clearly a nuanced and continually re-negotiated, lived-out ‘tension’ between the clan and
+the whole Yolŋu cosmos (as alluded to in Guthadjaka’s water story) in relation to land. Indeed, as with
+many Aboriginal cosmologies (from a strict cosmogonic point of view), the land pre-exists the great,
+shared creation narratives such as the Djaŋka’wu (dhuwa) and Wawilak (yirritja) sisters. Creation is
+never ex nihilo, or as Williams quips: ‘And then there was the word’ (Williams, 1986, p. 27), signifying
+both the land’s eternal, pre-existence, but also the vital ‘role that Yolngu give words, especially names, in
+the cosmology that validates people’s rights in land’ (Williams, 1986, p. 27). The ultimate impact of these
+unifying, holistic creation narratives (with associated song, dance and artistic symbols) are land-affirming
+rights, coupled with a kinship system whereby everyone is connected to everything in the cosmos through
+5 The issue of sea knowledges and rights will undoubtedly be of increasing importance to Warramiri interaction
+with public policy as the the people of the coral reef and the deep sea (Burrumarra, 1977). However, presently the
+famous ‘Blue Mud Bay’ High Court decision confirms Yolŋu sea rights applies only to the intertidal zone.
+                                      Warramiri Yolŋu cosmology: an introduction | Ben van Gelderen, Kathy (Gotha) Guthadjaka,
+                   Linda Ford, James Walun Bukulatjpi, Chloe Ford, Emily Ford, Bettina Danganbarr, Pawinee Yuhun and Ruth Wallace
+
+
+64
+     the moiety affiliations. It is a ‘logic of meaning that specifies transformations of time and agency, so that
+     cosmogony, cosmology, and ontology are embedded in a single matrix’ (Williams, 1986, p. 22). However,
+     the Yolŋu cosmology is not a static, uncontested domain. For example, early anthropolgists focussed
+     signifcantly upon the Djaŋka’wu ceremonial song-cycle, (as allegedly the ‘most important of all rituals
+     relate to Djanggawul’ (Berndt & Berndt, 1954, p. 10) and when noticing differences in observations,
+     considered them regional variations (Yirrkala versus Miliŋimbi) or ommissions, ‘apparently most of the
+     beginning of the Djanggawul myth was unknown to Warner’s informants’ (Berndt, 1953, p. 49). However,
+     later anthropologists convincingly demonstrated that substantial differences in the basic Djaŋka’wu
+     narrative were known and common place between clans: ‘the central and apparently unique event
+     occurred at the country of the person relating the story, but people were of course aware that details
+     told by others were incompatible… Yolngu did not appear to seek a unitary vision of the world’ (Keen,
+     1994, p. 61). Such clear and sustained examples of difference do not necessarily create disharmony, but,
+     rather, elucidate a Yolŋu epistemological/cosmological principle of multiple realities: ‘two or more groups
+     possessed a form in common such as the programme of a complex ceremony... but each could include
+     specific elements of its own, and each attached different significance to its sequences of dance and
+     song. They could thus co-operate in a performance while each retained its particular identity, ancestry
+     and connections with country’ (Keen, 1994, p. 38). In a similar fashion, although clan country is vital to the
+     Yolŋu cosmology, it is not as stable and unilaterally defined as early anthropologists suggested: ‘Yolŋu
+     contested the definition of country, as well as rights over it… people sometimes competed for control of
+     country, each trying to make his or her accounts of its significance prevail’ (Keen, 1994, p. 102). Thus,
+     although many narratives are shared between Yolŋu clans; unique, relative perspectives are tolerated
+     and, in fact, celebrated6 and negotiation concerning differing claims to rights of land is significant.
+
+     Such a conclusion brings us back to the importance of local, Warramiri perspectives and so we briefly
+     outline two local stories which interact with the pre-eminent land axiology:
+
+
+     Stories
+     In her address upon receiving her honorary doctorate in October 2018, Guthadjaka shared the following
+     story:
+
+            Long, long ago, when the spring tides surged on stormy seas, an octopus and a stingray
+            found themselves in the small fresh-water hole at my homeland Gäwa. The stingray and the
+            octopus thrashed about, arguing over the waterhole. They eventually tired of this, settled
+            down and reached agreement. Now, the stingray is very smart at finding his way, even when
+            the waters are muddy. We call him Guṉdjurru and he is very knowledgeable. The octopus
+            is also very smart and can reach in or out to handle many things at the same time. They
+            decided together that the octopus would sit in the hole as guardian and the stingray would
+            swim in and out on the big spring tides and so they went their separate ways in peace.
+
+            Now, to understand this story, you will need to know that my people identify themselves
+            with these animals. The octopus and stingray represent the two Warramiri clans. Long,
+            long ago, two brothers, one at the head of each clan, made big trouble for each other.
+            When they came to the water hole at Gäwa, they remembered that their totems had made
+            peace in that place. Today, their descendants live together at peace in the homeland they
+            share. Sometimes we visit the waterhole just to remember to accept one another with all
+            our differences… We feel most comfortable in our own fields of work, yet we do not thrive in
+            isolation. We thrive when we live and work together across many fields, in agreement and
+            cooperation. Our connections, agreements and friendships are vital to our prosperity as a
+            nation that highly values education.
+
+            I would like to quote from Isaiah 11:6 from the Bible:
+
+     6 	 Identities must be preserved and fore grounded in the production of knowledge which depends crucially on
+     identifying, acknowledging, and actively maintaining the differences of language, dance, art, etc., among various
+     contributing totemic groups’ (Christie, 2004, p. 5).
+                                                                         Learning Communities | Number 24 – October 2019
+
+
+
+                                                                                                                  65
+      Djupalim ŋarru wakinŋum, maḏakarritjma wuŋgan ga boḏinyma wäyin lämma barkthu yaki
+      rrambaŋin nyinay, wakalŋin barkthu nyin, ga yothuyu buliki’yum ga läyindhum ŋarri yaki
+      rrambaŋin mulmum ṉukay, ga yolŋun yumurrku barkthu yaki banya djäkam wäyin’kum mala.
+
+      Then the wolf shall be a guest of the lamb, and the leopard shall lie down with the young
+      goat; the calf and the young lion shall browse together, with a little child to lead them.
+      (Guthadjaka, 2018b)
+
+The issue of negotiation of land rights amongst the ‘branches’ of Warramiri at Gäwa is of crucial concern;
+it is a long and fascinating story which is briefly alluded to here by Guthadjaka. However, the important
+issue, in sharing with Balanda, is not the detail of the conflict or how exactly it was resolved, but that
+resolution was achieved and that the land itself (through the much older story of the stingray and the
+octopus) facilitated the outcome. In the negotiation process, in the coming together of differences,
+peaceful progress was made with an ultimate goal of life on the Gäwa homeland; in such progress we
+thrive.
+
+A second, recent story comes from community life at Galiwin’ku, with Guthadjaka as one of the Yolŋu
+researchers involved. In short, a proposal by the international Community Supported Agriculture (CSA)
+was put to the Northern Territory government to establish a community garden in Galiwin’ku. The Charles
+Darwin University Yolŋu Aboriginal Consultancy Initiative was tasked to undertake community research
+on local opinion about the garden possibility. From many years of experience, Christie and the team
+were committed to ‘transdisciplinary’ research (Christie, 2006) ‘which did not compromise the methods or
+epistemologies of Yolŋu knowledge making’ (Christie, 2014, p. 58). The resulting methodology is briefly
+described:
+
+Firstly, a group of six Yolŋu consultants were chosen, ‘all connected through webs of kinship to each
+other, to the whole population of Galiwin’ku and to their various ancestral estates on the island and on
+the mainland’ (Christie, 2014, p. 58). Nevertheless, the consultants all agreed that Buthimaŋ who had run
+a banana plantation for many years and was considered the expert Yolŋu gardener should be talked to
+initially. He advised them to ‘‘think about the land first’. Each piece of land belongs to particular people,
+managed by particular other people, and everyone has one kind of relation or another to every named
+place. When we listen to a new idea, Buthimaŋ said, we need to begin with the connections we already
+have’ (Christie, 2013b, p. 47). As Christie highlights, this was not just a matter of courtesy to the existing
+gardener, but the process of the ‘right people talking to the right people in the right place at the right
+time in the right order’ (Christie, 2013b, p. 49); it was fundamentally a rejection of the notion of epistemic
+equality, as alluded to in our Methodology section. Although the community was to be consulted, due
+to kinship relationships, not everyone’s voice would carry the same authority; ‘everyone is related to
+Buthimaŋ and to his land, but in many different ways’ (Christie, 2013b, p. 50), or expressed more fully,
+‘wherever the garden is placed, the old people made clear, the land belongs to someone. The way that
+people relate to the vegetables would be understood in terms of their kinship links to that land and its
+owners’ (Christie, 2014, p. 60). Christie conludes that the Yolŋu researchers turned technical ‘community’
+questions (how many people would support the concept, was $30 reasonable to sustain the business,
+where should it be positioned etc.) into ‘a collective moral problem... embracing the difficult, complex and
+authoritative work of listening to everyone differently’ (Christie, 2014, p. 50).
+
+For present purposes, we argue that it was a clear example of contemporary re-negotiation and re-
+enactment of cosmological principles founded on the pre-emince of land determining theoretical and
+practical processes to a small-scale public policy issue. In the end, though there was general agreement
+that a community garden akin to the Mission days would be a good idea, consultants reported back that
+it had to be properly negotiated and built on what was already established. That is, ‘while the government
+essentially wanted the Yolŋu to predict what a viable community garden would be like, the Yolŋu were
+concentrated upon how we could work towards a community garden together in good faith’ (Christie,
+2013b, p. 51). Sadly, the garden never progressed beyond the research phase, the holistic cosmology;
+‘the staggeringly complex interrelatedness of Yolŋu life, land, and history’ (Christie, 2014, p. 61) proved
+too much for government decision makers and the project was abandoned.
+                                      Warramiri Yolŋu cosmology: an introduction | Ben van Gelderen, Kathy (Gotha) Guthadjaka,
+                   Linda Ford, James Walun Bukulatjpi, Chloe Ford, Emily Ford, Bettina Danganbarr, Pawinee Yuhun and Ruth Wallace
+
+
+66
+     Inside/Outside epistemology
+     Perhaps to understand the complexity of the ‘garden’ story, government Balanda needed some
+     introduction to the broader epistemological foundation, that land is profoundly connected to knowledge
+     and truth. We return to Guthadjaka’s session from ‘Teaching from Country’:
+
+      Ŋunhi dhu ŋanyany luŋgurrmay boy’yun, ŋayiny                When the north easterly blows, he will say ‘Ahhh,
+      dhu bitjan ‘Yakay, yal’yurra ŋarra dhika’, bitjan           I’m feeling cool and relaxed’, he says.
+      ŋayi li.
+                                                                  The north easterly and the south westerly are
+      Luŋgurrma ga djalathaŋ manda wata ŋunhi                     gentle winds. You see, we need that, we get
+      gurrum’ manda, balanyaray. We need that,                    teaching from them.
+      nhakun, teaching limurr dhu märram.
+
+      Ga manda Dhuwa manda wata, bärra, ga                        And the two Dhuwa winds, the westerly and the
+      dhimurru, ŋunhi rirri’rirri. Bapmaram walal                 easterly are rough.
+      dhu, dry-kum ŋula nhaltjan, ga still ŋunhi li ga
+      ŋorra, marŋgikunhawuy limurruŋ, ga bulu ŋayi                They buffet and dry things out, but still there is
+      li dhiyaŋ lakaram dhäwu, mayali’mirr dhäwu,                 knowledge there for us, and so it tells its story,
+      ga ŋayi dhu djamarrkuli pick up ŋunhiyi, beŋur              full of meaning, and the story will be picked up by
+      nyumukuniny’ŋur.                                            children, from when they are very young.
+      Nhakun märrma’ ga layer ŋorra, waŋgany inside,              You see there are two layers, one inside, and one
+      ga waŋganydja outside.                                      outside.
+
+      Marŋgithirr walal dhu warraŋulwuy dhäwu, ga                 They will learn the outside story, and they will
+      bulu djinawa’ walal dhu marŋgithirr dhiyaldja,              learn the inside one too, through the metaphor, its
+      metaphor-ŋur ga bulu gurrutu ga dhäwu ŋunhiliyi.            kinship and stories.
+      Yaka yän mulkurrwu ŋanydja dhiyak ŋayaŋuw,                  Not just for the head, but for the inner being, the
+      birrimbirrwu, märrwu, ŋayi ŋunhi li dhuwandja               spirit and for good faith, if he gets it, the inside
+      märram, manda dhu yuwalk nhänhamirri, ga                    and outside will truly come together and help
+      gurrutuy maŋutjiy guŋga’yunmirr. Ga balanya.                each other through the perspective of kinship.
+     (Guthadjaka, 2010, p. 30-31).
+
+     The key concept expressed in this excerpt is the revealing of the ‘layers’ involved in Warramiri growth
+     into knowledge. It is sometimes referred to as the inside-outside dynamic: ‘the inside:outside distinction
+     is an all-pervasive one in Yolngu culture. Almost everything has an inside and an outside form or can be
+     divided into inside and outside components’ (Morphy, 1991, p. 78). In his exegesis of Yolŋu art, Morphy
+     elaborates on this Yolŋu standpoint which flows from ‘a worldview in which everything ultimately stems
+     from ancestral power and ancestral design… an underlying metaphysical basis’ (Morphy, 1991, p. 83).
+     In essence, reality is comprised of both ‘outside’ expressions and experiences and ‘inside’ sources of
+     power (usually connected to ancestral design (minytji) and objects (raŋga) initiated by ancestral-beings
+     (waŋarr)), and truth is a layered continuum based on ever-increasing sacred/secret revealings or levels
+     of understanding. As an epistemological foundation, ‘the ancestral world extends into the everyday
+     world, the inside flows into the outside. Outside forms are in a sense generated by inside forms and are
+     not separate from them’ and thus, ‘certain things are secret because they are powerful rather than the
+     other way around’ (Morphy, 1991, p. 80, p. 95). Guthadjaka refers to this in at least two ways. Firstly, she
+     takes up the example of the winds to demonstrate that there is an ‘outside’ understanding of directions
+     and extents, which impact on hunting and other homeland life-choices, but there is also the ‘metaphor’ as
+     to what the winds teach about ‘kinship and stories’. It is not necessary for Balanda to understand these
+     metaphors (and often it is excluded explicitly), but the layered nature of knowledge is the vital distinction.
+     Secondly, Guthadjaka highlights how learning is therefore both for the ‘head’ and ‘for the inner being,
+     the spirit and for good faith’; another connected layering of truth. And clearly, the wind is only one small
+     example, relating back to the vitality of living and learning on ancestral estates to experience all the
+     land’s teachings. Or as Rudder argues: ‘as all named things in the outside world are transformations of
+     elements of the inside of reality, then the whole cosmos and every discrete element of it becomes an
+     unbounded vehicle of religious knowledge’ (Rudder, 1993, p. 61).
+                                                                          Learning Communities | Number 24 – October 2019
+
+
+
+                                                                                                                   67
+As we shall see below concerning Guthadjaka’s sharing of the djurwirr, although the inside-outside
+dynamic is most obvious in terms of levels of meaning of clan narratives (dhäwu) with restrictions applying
+to women and uninitiated men, it is not limited in application to discussion of Yolŋu religious substance
+and power. As Morphy notes, it ‘can be used as a logical schema that can be applied to many situations,
+for example, to formulate an argument, to put forward a proposition, or to attempt to grasp the essential
+structure of something’ (Morphy, 1991, p. 80). Indeed, its potential to integrate other cosmological
+systems and accommodate change is of profound importance. For example, Williams records an old
+man at Yirrkala asserting that the ‘Macassans’ were expected by Yolŋu when they first appeared because
+when the ancestral beings were investing the world with meaning ‘spirit-macassans had appeared. They
+brought with them in spirit form the things the “real” Macassans would later bring and explained their use
+to Yolngu... (thus) the cause of change can be attributed retrospectively and the integrity of the cosmos
+sustained’ (Williams, 1986, p. 28). In a similar vein, Bos, in his dissertation on the adoption of Christianity
+amongst Yolŋu and the Christian ‘revival’ at Elcho Island in the late 1970s specifically, follows through
+the inside-outside dynamic literally as links of logical suppositions, concluding ‘that which is new and true
+is simply a revelation of what has always been’ (Bos, 1988, p. 371). Indeed, the inside-outside dynamic
+is a powerful force for social harmony and adaptation of Yolŋu to the incredibly rapid change their social
+structures have been forced to accommodate over the last century. As Rudder concludes:
+
+      The Yolŋu Cosmos is a viable and living structure, which while as the Yolŋu say of it that
+      it “is unchanging” yet it is capable within that “unchangingness”, of constant adaptation to
+      changing circumstances and experiences while at the same time providing stability and a
+      secure perception of identity through that change. (Rudder, 1993, p. 33)
+
+More recently, in relation to religion (2005), science (2003), homelands (2008) and, in particular, evolving
+funeral practices (2012, 2016) the Morphys have begun to expound a more general theory of ‘relative
+autonomy’ whereby ‘both within Yolngu society and in its articulations with the encompassing world,
+this autonomy has always been relative rather than absolute… rather than becoming “intercultural,”
+Yolngu systems and subsystems remain relatively autonomous. They change in response to external
+pressures while maintaining their own distinct trajectories’ (Morphy & Morphy, 2013, p. 177). Indeed,
+there is a provisionality even within the inside-outside dynamic in that changes over time naturally occur;
+‘the content of the categories changes: what was once restricted becomes public and what was once
+public becomes restricted’, and ‘a particular interpretation is inside only until one has been told a further
+interpretation that is said to be more inside’, and content and form issues can separate ‘what may be
+restricted is knowledge that a painting was done, not knowledge of the painting itself’ (Morphy, 1991, p.
+76, p. 78).
+                                      Warramiri Yolŋu cosmology: an introduction | Ben van Gelderen, Kathy (Gotha) Guthadjaka,
+                   Linda Ford, James Walun Bukulatjpi, Chloe Ford, Emily Ford, Bettina Danganbarr, Pawinee Yuhun and Ruth Wallace
+
+
+68
+     Stories
+     Figure 3: Gäwa Christian School logo
+
+
+
+
+     We have briefly looked at the story of the fresh-water hole at Gäwa, as shared by Guthadjaka. However,
+     it is pertinent to note that when Ben lived at Gäwa in 2009-2010, this story was not widely shared, the
+     literally ‘inside’ jungle area of Gäwa was generally considered a no-go zone for Balanda and he knew of
+     the story, but only due to its visual representation on the school logo (Figure 3). During 2013, the school
+     did have an ‘excursion’ to the fresh-water hole and a version of the story was shared by the ‘old man’ of
+     the Warramiri, Ceremonial Custodian, James Wäluŋ Bukulatjpi. Recently, in October 2018, Ben returned
+     to Gäwa to record some further community research on the history of Warramiri interactions with sea-
+     faring outsiders over the centuries. Wäluŋ again suggested we visit the water-hole and he explained the
+     presence of the djambaŋ (tamarind) tree, which had come from a seed from Miliŋinbi and purposively
+     planted near the fresh water as a reminder of the ‘Macassan’ trade period. In talking to the school
+     students, and the researchers, he also hinted at some further stories relevant to the water hole, including
+     references to the enigmatic walitha-walitha (little people) and some fighting/trouble that had occurred
+     nearby. What was most interesting was when Wäluŋ paused and asked a well-respected Balanda (who
+     had been adopted into the Warramiri clan in the early 1970s) whether he should tell these particular
+     stories to the children... Wisely, the experienced Balanda proferred no opinion either way, and we left to
+     explore some further local sites of historical interest. Thus, the episode demonstrates the clear inside/
+     outside dynamic of secret/sacred defintions changing over time, of age and maturity as relevant factors,
+     and of the emerging dynamic of technology altering the process of the intergenerational transmssion
+                                                                        Learning Communities | Number 24 – October 2019
+
+
+
+                                                                                                                 69
+of cultural stories. As Wäluŋ has stated in relation to a graduation ceremony as part of the Warramiri
+cosmology project:
+
+      The times are changing. Our old people have passed away, that’s why I say it’s time to
+      write down the stories—so the new generations will not lose them. We have paintings that
+      tell our stories (and I teach my own children to understand some parts of the paintings, but
+      some parts are secret.) Ceremony tells the story with symbols and dance that everyone can
+      enjoy, but still some things are restricted. The understanding is not given in video or audio
+      for everybody, although everybody can watch and dance, not everybody will understand. I
+      want the understanding recorded on paper, so it is not lost when I die... The more an older
+      person understands the meanings, the more they will value them. I hold the stories of the
+      Duck and the Whale because the old people trusted them to me. But still all Warramiri use
+      the stories; they are partly preserved by use.
+
+A second pertinent example concerns women explicitly and leadership roles in modern Yolŋu society.
+The inside-outside dynamic is often predicated upon the exclusion of women to access ‘inside’ objects,
+images and narratives. Indeed, there is a narrative justification for this exclusion from some of the ‘big’
+dhäwu (stories), such as the Djaŋka’wu sisters, who had their sacred objects stolen by men, who ‘seized
+control of certain ultimate manifestations of the inside, which thereby gave them the power to act in ritual’
+(Morphy, 1991, p. 97). This is a fascinating area for analysis concerning the interplay of cosmological
+beliefs and current practices for a number of reasons. Firstly, even in the 1970s, there was ambiguity
+around women’s exclusion to ‘inside’ knowledge and power. Morphy records that women still extensively
+utilised the dynamic as ‘a logical principle for talking about the world, and they gain access to things
+that are inside relative to other things’ and, in fact, also partook of the layering of secret/sacred; ‘women
+in particular gain increasing access to restricted knowledge according to their age, status and interest
+they show in ritual matters’ (Morphy, 1991, p. 96, p. 76). More profoundly, there were hints (likely ‘inside’
+interpretations of some of the big dhäwu) of an identity connection between ‘inside’ and women as a
+cosmological fundamental. Thus, Morphy records Narritjin often claiming ‘“really women are the inside”…
+referring both to the fact that inside meanings often refer to female things, (and women)… as generators
+and sources of power’ (Morphy, 1991, p. 97). Williams concurs from her land rights fieldwork at Yirrkala,
+as senior men explained ‘that the profoundest and most sacred meanings of many of the spirit-beings
+are female or else have an important characteristic (or property or activity) that is associated with women’
+(Williams, 1986, p. 50).
+
+Guthadjaka notes the importance of the Warramiri decision in the 1980s in relation to the mala (clan)
+town council:
+
+      My leader was David Burrumarra... none of the other clans had a female on their group.
+      David Burrumarra… he chose me to be on the council to represent women, but there was
+      no other women to represent their clan. (Guthadjaka, 2018c)
+
+In fact, it was not Burrumarra’s first foray into ‘re-adjusting’ male/female power roles, as the (in)famous
+Memorial of the 1950s, where scared emblems had been put on public display (as discussed below),
+saw many women rush to the bush, fearing death as punishment for viewing their clan’s sacred
+emblems. Indeed, it is undoubted that the impact of the large-scale adoption of Christianity was a
+distinct, epistemological challenge to the gender restriction of the inside-outside dynamic. In particular,
+protestant, evangelical Methodism with its emphasis on the ‘priesthood of all believers’ ensured early
+women missionaries taught (adult) Sunday school classes and preached in formal church services
+(McKenzie, 1976; Kadiba, 1998; Wearing, 2007). Keen is explicit on the historical adaptation that
+occurred: ‘the move towards inclusiveness through Christianity threatened to erode the power of the
+older men, which rested on the constitution and control of secret religious knowledge and practices, for
+Christianity challenged the very separation of ‘inside’ and ‘outside’’ (Keen, 1994, p. 287). How exactly
+this adaptation evolved in terms of Yolŋu women’s involvement in public decision making seems to have
+also depended on the localised Mission leadership approaches, and thus some regional differences are
+apparent. Williams notes at the time of her fieldwork that ‘women do –and must- participate in religious
+activity and political decision making, and that senior women are expected to act as leaders and are
+admired for being strong. Not all Yolngu men share this view of the importance of women’s public roles,
+                                     Warramiri Yolŋu cosmology: an introduction | Ben van Gelderen, Kathy (Gotha) Guthadjaka,
+                  Linda Ford, James Walun Bukulatjpi, Chloe Ford, Emily Ford, Bettina Danganbarr, Pawinee Yuhun and Ruth Wallace
+
+
+70
+     however; Keen (personal communication) says that men at Milingimbi expressly deny it’ (Williams, 1986,
+     p. 51). Whereas both Keen (1994) and Bos (1988) argue that the Mission leadership style at Galiwin’ku
+     had a profound impact as a necessary precondition for the further gender-equitizing Christian ‘revival’
+     of the late 1970s. Of course, the pertinent question remains as to how the inside-outside dynamic has
+     altered and/or continues to impact public policy regarding Yolŋu women in present communities.
+
+
+     Multiple ontologies
+     From her prepared acceptance speech for Senior Australian of the Year, 2018 (Northern Territory),
+     Guthadjaka relied on djurwirr (Great bowerbird, Chlamydera nuchalis) nesting practices:
+
+     Figure 4: Djurwir
+
+                                                                 1. Ancient generations of djurwirr made their
+                                                                 nests from sticks and grass and decorated them
+                                                                 with shells and pebbles. They kept a special
+                                                                 pattern for their nest.
+
+
+
+
+     2. Today the colors and content of the
+     decorations have changed. Some keep colored
+     glass, some like green, some like blue—some
+     even keep a mobile phone and a bit of cash
+     handy. Everything is mixed together and the bird
+     is living in two worlds, filled with mixed treasures
+     from old and new.
+
+
+
+
+                                                                 3. There are guardians and protectors outside –
+                                                                 to stop theft of the treasured knowledge, but this
+                                                                 can also protect and manage too much impact
+                                                                 from outside influences and/or not acknowledging
+                                                                 the authority of the guardians.
+                                                                      Learning Communities | Number 24 – October 2019
+
+
+
+                                                                                                               71
+                                                     4. Not everything is accepted and the pattern has
+                                                     not changed. Djurwirr keeps a clear pathway and
+                                                     line of vision from its nest.
+
+
+
+
+                                                     5. My people are like djurwirr. Warramiri are
+                                                     colourful people, yet we discern. The clear path
+                                                     needs to be made; when you have a clear path
+                                                     you can organise and see clearly. Then treasured
+                                                     things can be kept safe and valued, and some
+                                                     can be shared, to give comfort or teach us
+                                                     valuable lessons in both worlds’ (Guthadjaka,
+                                                     2018a).
+
+
+
+
+In typical style, Guthadjaka’s image is appealing and memorable, but also layered. The ‘metaphor’ clearly
+highlights the Warramiri foundation of selective adaptation and adoption, but also alludes to the secret/
+sacred knowledge domain (‘treasured things can be kept safe and valued, and some can be shared’)
+and the ‘protective’ function of Elders (‘manage too much impact from outside influences and/or not
+acknowledging the authority of the guardians’) to, ultimately, negotiate the future vision (‘when you have
+a clear path you can organise and see clearly’). In many ways, the djurwirr image can be considered an
+elaboration of the lesson in Guthadjaka’s other published parable, Yuṯa Gonydjuy (The New Wax). In
+this true-life story, native bees began to use the tar from newly sealed roads in Galiwin’ku to make their
+honey. This was a mistake! The concluding section of the story reads:
+                                      Warramiri Yolŋu cosmology: an introduction | Ben van Gelderen, Kathy (Gotha) Guthadjaka,
+                   Linda Ford, James Walun Bukulatjpi, Chloe Ford, Emily Ford, Bettina Danganbarr, Pawinee Yuhun and Ruth Wallace
+
+
+72
+      Bili Godthu djanaliŋgu gunyan marimi ŋuwakurru              God already gave them everything that is good,
+      gonydjuy’ djämawu, mädjanal ŋarru djäma                     they only had to look around hard and use their
+      ŋamaŋamayun djanaliŋguway djanal ŋayi, ga                   own skills for making the sugar-bag, using the
+      guku ga waripu malany ŋuwatjuman bayiŋuya                   natural wax from the flowers that blossom in the
+      gonydjuy’yu.                                                bush. Take care of this way well and the sugar-
+                                                                  bag that comes from the bush will be sweet and
+      Ga gukum ŋarru marimin latjun dhäkayma.                     beautiful to taste.
+      Ga bilanyaya bili nhawun Godthu gunyan                      In the same way God already gave us a good law
+      ŋalmaliŋgu ŋuwakurru rom. Mäŋalma ŋarru                     to live by and built a foundation for our identity.
+      djäma nyena, ga garryunmi ŋunhuŋ nhäwu                      In this way we can come together and live as
+      ŋuwakurruwu romgu.                                          one people. Not out by ourselves, chasing our
+                                                                  own ideas. Let us not be like the honey bees.
+      Ŋalma ŋarru bukmak buku-manapanmi ga
+                                                                  These days many people are very excited and
+      waŋganydji nyena waŋgany mala ga yaka buku-
+                                                                  influenced by new ideas and laws coming into our
+      gänaŋ’dji. Ŋalma yaka bitjan nhawun banya guku
+                                                                  lives.
+      ḏawurr malany. Banya djanal yaka mulkuruyun
+      romdhun nyena djinaŋ bala.
+      Ga nyäkuḻim banya bitjanna maḻŋ’thun gam.                   To me it appears that today we are so happy
+                                                                  holding on to new ways, but already they have
+      Bili djinaŋum bala ŋalma yaka marimin goŋmiyi               brought lots of confusion, and we are very
+      ga nyäku’yunmi yuṯawun ga mulkuruwun                        frustrated in this difficult position between old and
+      romgu, bilanya nhawun guku ḏawurr malany.                   new. It is not good for us and our children. Let
+      Bawalamiwun ŋalma yaka malthunma                            us go back to our ancient paths and follow our
+      mulkuruwun romgu.                                           ancestor’s footsteps and work with peace and joy.
+      Ga yaka djuwanma ŋuwakurru ŋalmaliŋguru                     This is the end of the story about the bees.
+      yumurrku’wu. Ŋalma ḏitjunna balayan
+      ŋaliŋguwaywuḻi djukaḻi ga romḻi, banya nhäyiny
+      djanaliŋgu ŋaḻapaḻmiwu rom. Nhalpiyan
+      djanal yakan nyenan ŋarrin ŋoy-gurrum’thu
+      ga mägayayu romdhu. Ga bilin djaŋu
+      dhawar’yuwannan.
+      Yow, Garrayma yaka garryun nhumaliŋgu bitjan,               Jesus says to you people who belong to him:
+      bayyiguya warrawu banyaya nyeli nhanguway
+      yolŋu’-yulŋu warra.                                         ‘Stand at the crossroad and look; ask for the
+                                                                  ancient paths, ask where the good way is, and
+      Nhäŋa ŋarriya rangaŋ bayikuyam banya                        walk in it. Then you will find rest for your souls’.
+      djukawum dhunupawum, dhäwirrkayunmiya
+      ŋarriya.                                                    Jeremiah 6:16
+
+      Ŋala djika djuka ŋuwakurrum wal’ŋu. Banyayam
+      banya nhan Garrayu nyipan ŋätjil?
+
+       Ŋarriya bayiyiwitja bili djukamurru mänhunu
+      ŋarru nyena yaka ŋayaŋum wurrkurrumŋan
+      romŋa.
+     (Guthadjaka, 1998)
+
+     Thus, Yuṯa Goydjuy embodies the message of the djurwirr bower that ‘not everything is accepted, and
+     the pattern has not changed’; not all of the ‘new ways’ are productive. However, by implication of the
+     story, Christianity itself is not one of these ‘new ways’. Indeed, it is impossible to miss the references to
+     faith and God throughout Guthadjaka’s presentations, including the (Holy) Spirit in the conclusion of the
+     Djuranydjura re-working, the crying by the waters of Babylon/Balanda education practices, and the lion
+     and the lamb negotiated agreement imagery from Isaiah.
+                                                                        Learning Communities | Number 24 – October 2019
+
+
+
+                                                                                                                 73
+Figure 5: The Memorial, Galiwin’ku
+
+
+
+
+Such an integration, a synthesis of co-existant ontologies is certainly also to be seen in Burrumarra’s life
+and work. Back in 1957, Warramiri and Wangurri elders (with a young Burrumarra as the key agitator
+and spokesman) convinced a number of other clan leaders (both dhuwa and yirritja) to reveal many
+sacred designs, often combined with Christian iconography, on a series of carved and painted wooden
+posts at Galiwin’ku- dubbed the ‘Memorial’. In his fascinating monograph on this ‘adjustment movement’
+Berndt attempted to unravel the complex and varied motivation behind the revealing of sacred/secret
+knowledge. Of Burrumarra personally Berndt surmised that:
+
+      On the one hand he wanted change from outside with greater rapidity. On the other hand
+      he did not want them to overwhelm his own society and culture... If this loss of identity were
+      to be avoided then some re-orientation of traditional life would be necessary. (Berndt, 1962,
+      p. 39)
+
+Thus, the movement was both a political statement and a deeply spiritual one; in essence, it was a
+‘conscious attempt at redefining social organisation. The Yolŋu were to be a single unified block of clans
+and Christianity was put forward as legitimizing the unity of Dhuwa and Yirritja moieties. As a cooperative
+group, the Yolŋu would be in a stronger position to voice their demands vis-à-vis the Welfare Department,
+missionaries, and developers’ (McIntosh, 1999, p. 70). There were also very practical benefits desired too,
+understood as an exchange for revealing the sacred knowledge. Burrumarra asked: ‘these are the most
+precious things we have (the raŋga). Why can’t we get a big school? (Berndt, 1962, p. 78). Interestingly,
+                                      Warramiri Yolŋu cosmology: an introduction | Ben van Gelderen, Kathy (Gotha) Guthadjaka,
+                   Linda Ford, James Walun Bukulatjpi, Chloe Ford, Emily Ford, Bettina Danganbarr, Pawinee Yuhun and Ruth Wallace
+
+
+74
+     in later years Burrumarra reflected back in typical enigmatic fashion: ‘The Adjustment Movement was
+     wrong but we had to do it...there is no pleasure looking back on it, but it served its purpose’ (McIntosh,
+     1994, p. 110). But, at the same time: ‘I believe in both ways, the traditional and the Christian life, but we
+     have so many questions. That’s why we talk and discuss meanings. We search for the purpose of life in
+     our history and in the land itself. And now we have the Bible as well’ (McIntosh, 1994, p. 77).
+
+     The concept of ‘bothways’ in regard to synthesising Christianity and traditional Yolŋu ontologies is
+     certainly not restricted to Warramiri Yolŋu. Goṉḏarra outlines theological arguments supporting such
+     integration in a number of revealing texts (1986, 1987, 1992, 1996), most famously in Father, you gave
+     us the Dreaming (1988). Practically, the outworking of such a cosmological foundation is most clearly
+     seen in funeral practices, both now and in the past. Early anthropologists were fascinated with the
+     ‘mortuary rituals’ of Yolŋu and wrote extensively on the formal ceremonial elements involved (Warner,
+     1937; Thomson, 1949). However, the most poignant moment in Warner’s classic ethnography was his
+     description of the death of a Warramiri man and his kinsman’s last actions; the more spontaneous and
+     personal elements of his passing (Warner, 1937, p. 404). Indeed, later works reflected on the fact that
+     the funeral ceremonial practices/performances, the ‘song cycles’, were never uniform, sequenced rituals,
+     akin to a Catholic mass, for example, but vital opportunities to reaffirm Yolŋu ontological truth. Firstly,
+     the profound connection between named reality and identity: ‘the webs of human and land relatedness-
+     that is, the things which have built that individual, and which are identified by that name -are actually
+     constitutive of a person’s identity, and a person’s death signifies a radical rupturing of the whole network
+     of human meaning’ (Christie, 1994, p. 28). And thus, the ceremonial leaders’ responsibilities are to
+     best negotiate and select and order the songs, designs and dances: ‘to link particular groups of people
+     together by reference to their land, totems and ancestral history’ (Christie, 1994, p. 31). Indeed, there
+     are ‘various possible routes for a song journey from the ceremonial ground to the spirit place… (the one
+     chosen highlighting) the links which the deceased had with the many different related groups who have
+     come to say goodbye, and the love and respect in which that person was held’ (Christie, 1994, p. 31).
+     Thus, a form of multiple ontologies was always demonstrated in the negotiation and contextualisation of
+     ceremonial songs, in conjunction with clan leadership of both moieties, the land the actual ceremony was
+     taking place upon, and individual personalities. The Morphys’ studies of more recent funeral practices
+     (2012) also indicate the profound combination of traditional Yolŋu song cycles and dance sequences,
+     ‘Macassan’ influences, Christian iconography and speech making, and idiosyncratic elements to best
+     capture the individual, their relation to the land and related clans and their impacts on the broader
+     Balanda world. However, the key is to understand that the rituals:
+
+           are not hybrid creations made up through combining elements that history has brought into
+           contact. Rather they are the product of a regional ecumene, which has at its center distinctive
+           value creation processes, beliefs about the nature of being, and ways of structuring action
+           to express these beliefs and values. (Morphy & Morphy, 2012, p. 53)
+
+     Therefore, it is no so much that Yolŋu have adapted core beliefs about existence to suit new influences
+     (hybridity theory), but the ‘fundamentally recursive and incorporative’ nature of Yolŋu ontology (as
+     expressed in mortuary rituals) has enabled Yolŋu ‘to adapt to new contexts and seize opportunities while
+     appearing to cary the past with them’ (Morphy & Morphy, 2012, p. 58). Thus, in returning to Guthadjaka’s
+     ‘selective adaptation and adoption’ from djuwirr, it would seem to be clear that the Warramiri make
+     explicit what is a more generalised Yolŋu cosmological foundation. In considering the impact and change
+     to Yolŋu society through various waves of contact with outsiders, culminating in yearly ‘Macassan’ trade
+     voyages, the Berndts concluded that Yolŋu were; ‘absorbing into their own culture certain new elements,
+     rejecting others that could not readily be adapted to the existing pattern’ (Berndt & Berndt, 1954, p. 188).
+     Likewise, regarding the ‘adjustment movement’, Berndt summarized ‘that we can legitimately speak of
+     rapprochement between the alien and the indigenous: the one is in the process of being adapted to the
+     other... inward-looking in terms of traditional integrity, outward-looking beyond the confines of linguistic
+     unit and clan territory, cross-cultural dimension’ (Berndt, 1962, p. 14). Overall, Yolŋu seem to have applied
+     such an approach to large scale interactions in terms of incorporating the mälk (skin) system into older
+     gurruṯu kinship patterns (Shapiro, 1981) and the assimilation of Mission ‘leadership’ into existing conflict
+     resolution procedures (Williams, 1987). In fact, it has been argued that a multiple ontologies foundation is
+     characteristic of Yolŋu cosmology; that ‘ambiguity and relativism’ (Keen, 1994, p. 38) have long been the
+     prevailing structural principles for both practical organizations of Yolŋu society (clan, country, leadership)
+                                                                        Learning Communities | Number 24 – October 2019
+
+
+
+                                                                                                                 75
+and theoretical positions (knowledge, religious communication). In this, ceremonial interactions are the
+profoundest enactments of the overall ontology; though groups shared a common form, it was highly
+differentiated:
+
+      each could include specific elements of its own, and each attached different significance to
+      its sequences of dance and song. They could thus co-operate in a performance while each
+      retained its particular identity, ancestry and connections with country… (and within groups
+      themselves) shared forms current among one public, and distinctive interpretations among
+      a variety of less inclusive publics and individuals. (Keen, 1994, p. 38)
+
+In his thorough exploration of the Warramiri cosmology specifically, and the various ‘branches’ with
+connections to other ‘clans’, McIntosh is equally adamant: ‘identity therefore is something that is
+constructed for specific purposes and is a matter of agreement by all concerned, rather than something
+unambiguous or “fixed”’ (McIntosh, 1997, p. 24). Such a position certainly finds support from the
+extensive work that has developed out of the ‘bothways’ Yolŋu educational philosophy from the 1980s.
+Stemming from Yolŋu educators outlining a fundamental cosmological foundation: ‘there is negotiation
+of meanings between the two moieties, Dhuwa and Yirritja, which can be applied to negotiation
+between Yolŋu and Balanda cultures to find the common ground that makes up the two way curriculum’
+(Wunuŋmurra, 1989, p. 13), a string of profound ‘metaphors’ were then shared from kinship structures
+(yothu-yindi connection, Marika, Ŋurruwutthun, & White, 1989), water commingling (gaṉma, milŋurr
+and bala-lili, Marika-Munuŋgiritj, 1990) and ceremonial negotiation between clans (garma and galtha,
+Marika-Munuŋgiritj, 1991). In further works, the ceremonial context was particularly highlighted, and a
+shift from a pedagogical constructivism (which was most apparent) to an epistemological/ontological
+constructivism was argued for. Christie utilized the garma and galtha images to elucidate co-existent
+multiple ontologies: ‘in the playing out of the Galtha… the objective world attains reality only through the
+received meanings which, through negotiation, we choose to foreground the pattern of our relatedness’
+(Christie, 1994, p. 33), as there is ‘no split between language and materiality. Talking, singing, crying,
+dancing, and painting all actively participate in the creation of new worlds as they have always done
+since the ancestors first talked, sang and danced the world into existence’ (Christie, 2005, p. 64). Verran
+also explicitly draws parallels with western-philosophical histories: ‘the concept of garma… a distinctive
+Aboriginal epistemology that has something in common with European constructivism, except that place
+is a crucial determinant of knowledge’ (Verran & Christie, 2007, p. 218) and ‘a Garma can be understood
+as working like a Deweyan public, called into existence by a ‘public problem’, an issue of substantial or
+serious significance’ (Verran & Christie, 2011, p. 29).
+
+
+Conclusion
+Mention of a ‘public problem’ is an appropriate place to conclude, for we reiterate that the function
+of this introduction has always been to facilitate analysis and production of appropriate public policy
+for issues of women and gender in the local Gäwa and Galiwin’ku region. From the garma image we
+learn that Yolŋu have long been engaging in this process themselves, balancing profound duties and
+responsibilities to land and sea, layers of knowledge and inside/outside power realms between clans and
+genders, and commitments to incorporate new realities in reaching agreements. In Balanda philosophical
+terms, issues of axiology, epistemology and ontology are in a perpetual relationship of negotiation, and
+Warramiri Yolŋu, Burrumarra and Guthadjaka in particular, seem generously disposed to share their
+cosmological foundations with interested outsiders. In conclusion, we share one last story as it draws
+together many of the themes of this introduction to Warramiri cosmology. It is a story told at Gäwa (with
+some humour), but mostly concerns Mayawun’pirri (Stevens Island), one of the ancestral estates of the
+Budalpudal ‘branch’ of the Warramiri (McIntosh, 1997) and boyhood home of Wäluŋ. The island was one
+of the first places to have an airstrip, built in the Mission days under Harold Shepherdson who actively
+encouraged Yolŋu to remain on their ancestral estates; their homelands (Baker, 2018). In his home-made
+airplane he would fly to the homeland family groupings, facilitate some trading arrangements and often
+conduct a short Christian service. By the early 1990s the 300m airstrip on Mayawun’pirri was earmarked
+for refurbishment by Marthakal Homelands Resource Centre. Warramiri families travelled out to the
+island and mowed the existing strip while a Missionary Aviation Fellowship (MAF) pilot flew out to test
+                                      Warramiri Yolŋu cosmology: an introduction | Ben van Gelderen, Kathy (Gotha) Guthadjaka,
+                   Linda Ford, James Walun Bukulatjpi, Chloe Ford, Emily Ford, Bettina Danganbarr, Pawinee Yuhun and Ruth Wallace
+
+
+76
+     the surface for compliance and future potential usage. The testing went well except that the pilot advised
+     that making the strip just a little but longer would be greatly beneficial, larger planes could land taking
+     more passengers and more weight. Some further clearing would be necessary, including the removal of
+     a Pandanus tree at the end of the airstrip. After some thought, Wäluŋ told the pilot that it couldn’t be done
+     as the Pandanus tree represented something quite important in an old story connected to Mayawun’pirri.
+     The pilot was insistent; what could be more important than facilitating consistent access to the land, to
+     your ancestral country? The old man chose to share some of the layers of the truth; the tree actually
+     represents Balanda, (from a typically fascinating Warramiri story of when a Balanda and shark fought
+     at Mayawun’pirri). Indeed, the Pandanus is the Balanda, it is the Balanda access to the land as an
+     ontological fundamental; knock down the tree and the Balanda role in any on-going story (including the
+     possibility of flying in planes and all that could entail) would also be gone...The airstrip was left as it was.
+
+     We hope many other positive outcomes and stories are generated from the interplay with Warramiri
+     cosmology, women and gender into the future.
+                                                                       Learning Communities | Number 24 – October 2019
+
+
+
+                                                                                                                77
+References
+Baker, G. (2018). A legendary partnership: Yolŋu, Bäpa Sheppy and Ŋäṉḏi Ella. Darwin: Historical Society
+      of the Northern Territory.
+
+Baker G., Garŋgulkpuy J., & Guthadjaka, K. (2014). Guthadjaka and Garŋgulkpuy: Indigenous women
+      leaders in Yolngu, Australia-wide and international contexts. In J. Damousi, K. Rubenstein, and M.
+      Tomsic (Eds.), Diversity in Leadership: Australian Women, Past and Present (pp. 39–52). Canberra,
+      Australia: Australian National University Press.
+
+Berndt, R. (1953). Djanggawul: and Aboriginal religious cult of north-eastern Arnhem Land. New York:
+      Philosophical Library.
+
+Berndt, R. (1962). An Adjustment Movement in Arnhem Land. Mouton, Paris and The Hague: Cahiers de
+      L’Homme.
+
+Berndt, R. & Berndt, C. (1954). Arnhem Land: its history and its people. Melbourne: Hawthorn Press.
+
+Bos, R. (1988). Jesus and the Dreaming: religion and social change in Arnhem Land. (Doctoral
+      Dissertation). University of Queensland, Queensland, Australia.
+
+Burrumarra, D. (1977). Oceanal Man: an Aboriginal view of himself. Aboriginal and Islander Health
+      Worker Journal, 1(3), 52-54.
+
+Christie, M. (1994). Grounded and Ex-centric knowledges: exploring Aboriginal alternatives to western
+       thinking. In J. Edwards (Ed.), Thinking: International Interdisciplinary Perspectives (pp. 23-34).
+       Victoria: Hawker Brownlow Education.
+
+Christie, M. (2004). Computer Databases and Aboriginal Knowledge. Learning Communities:
+       International Journal of Learning in Social Contexts, 1, 4-12.
+
+Christie, M. (2005). Aboriginal Knowledge Traditions in Digital Environments. Australian Journal of
+       Indigenous Education, 34, 61-66.
+
+Christie, M. (2006). Transdisciplinary Research and Aboriginal Knowledge. The Australian Journal of
+       Indigenous Education, 35, 78-89.
+
+Christie, M. (2008). Yolngu Studies: The co-constitutivity of Teaching, Research and Aboriginal
+       Community Engagement at a Regional Australian University. Gateways: International Journal of
+       Community Research and Engagement, 1, 31-47.
+
+Christie, M. (2009). Engaging with Australian Indigenous Knowledge Systems: Charles Darwin University
+       and the Yolngu of Northeast Arnhemland. Learning communities: International Journal of Learning
+       in Social Contexts, 7, 23-35.
+
+Christie, M. (2013). Generative and ‘ground-up’ research in Aboriginal Australia. Learning communities:
+       International Journal of Learning in Social Contexts, 13, 3-13.
+
+Christie, M. (2013b). The Box of Vegies: Method and Metaphysics in Yolŋu Research. In M Vicars, T.
+       McKenna, & J. White (Eds.), Discourse, power, resistance – Down Under, Vol. 2 (pp. 45-56).
+       Rotterdam: Sense Publishers.
+
+Christie, M. (2014). Decolonising methodology in an Arnhem Land garden. In B. Neumeier, & K. Schaffer
+       (Eds.), Decolonizing the Landscape: Indigenous Cultures in Australia (pp. 57-70). Amsterdam:
+       Rodopi.
+
+Gondarra, D. (1986). Let my people go. Darwin: Bethyl Presbytery.
+
+Gondarra, D. (1987). Overcoming the Captivities of the Western Church Context. In J. Houston (Ed.), The
+     Cultured Pearl (pp. 176-182). Melbourne: The Joint Board of Christian Education.
+
+Gondarra, D. (1988). Father, you gave us the Dreaming. Darwin: Northern Synod of the Uniting Church.
+                                      Warramiri Yolŋu cosmology: an introduction | Ben van Gelderen, Kathy (Gotha) Guthadjaka,
+                   Linda Ford, James Walun Bukulatjpi, Chloe Ford, Emily Ford, Bettina Danganbarr, Pawinee Yuhun and Ruth Wallace
+
+
+78
+     Gondarra, D. (1992). Through Similar Journeys Comes Revelation. Generation 3(1), 20–3.
+
+     Gondarra, D. (1996). Aboriginal Spirituality and the Gospel. In A. Pattel-Gray (Ed.), aboriginal spirituality
+          (pp. 41-53). Blackburn: Harper Collins.
+
+     Guthadjaka, K. (1998). Yuṯa Gonydjuy. Galiwin’ku, Northern Territory: Shepherdson College.
+
+     Guthadjaka, K. (2010). Teaching when nothing is lying around. Learning Communities: International
+          Journal of Learning in Social Contexts, 2, 25-31.
+
+     Guthadjaka, K. (2012, July). Meta narrative, technology and how we tell our story. Paper presented at
+          Northern Territory Christian Schools Association Over the Top Conference, Darwin.
+
+     Guthadjaka, K. (2015). Manbuyŋa Garmak Warramiri. Darwin: The Northern Institute, Charles Darwin
+          University.
+
+     Guthadjaka, K. (2018). Message for knowledge and learning. Retrieved from https://www.cdu.edu.au/
+          northern-institute/gotha-bowerbird
+
+     Guthadjaka, K. (2018b, October). Insights from ‘Ŋarrpiya ga Maranydjalk’. Speech presented at Charles
+          Darwin Graduation, Darwin
+
+     Guthadjaka, K. (2018c). My Life. Recording for Northern Institute, August 2018.
+
+     Kadiba, J. (1998). The Methodist mission and the emerging Aboriginal church in Arnhem Land 1916-
+           1977. (Doctoral Dissertation). Northern Territory University, Northern Territory, Australia.
+
+     Keen, I. (1994). Knowledge and Secrecy in an Aboriginal Religion. Oxford: Clarendon Press.
+
+     Keen, I. (2004). Aboriginal economy and society: Australia at the threshold of colonisation. Oxford:
+           Oxford University Press.
+
+     Magowan, F. (2001). Waves of knowing: polymorphism and co-substantive essences in Yolngu sea
+         cosmology. The Australian Journal of Indigenous Education, 29(1), 22-35.
+
+     Marika, R., Ngurruwutthun, D., & White, L. (1989). Always Together, Yaka Gäna: Participatory Research at
+           Yirrkala as part of the development of a Yolngu education. Yirrkala: Yirrkala Literature Production
+           Centre.
+
+     Marika-Munuŋgiritj, R. (1990). Workshops as teaching learning environments. Ngoonjook: A Journal of
+           Australian Indigenous Issues, 4, 43-55.
+
+     Marika-Munuŋgiritj, R. (1991). How can balanda (white Australians) learn about the Aboriginal world?
+           Ngoonjook: A Journal of Australian Indigenous Issues, 5, 17-25.
+
+     McKenzie, M. (1976). Mission to Arnhem Land. Adelaide: Rigby Limited.
+
+     McIntosh, I. (1994). The Whale and the Cross: conversations with David Burrumarra. Darwin: Historical
+           Society of the Northern Territory.
+
+     McIntosh, I. (1997). “Can we be equal in your eyes?” a perspective on reconciliation from north-east
+           Arnhem Land. (Doctoral Dissertation). Charles Darwin University, Darwin, Australia.
+
+     McIntosh, I. (1999). Aboriginal Reconciliation and the Dreaming: Warramiri Yolngu and the quest for
+           equality. London: Allyn and Bacon.
+
+     McIntosh, I. (2015). Between Two Worlds: Essays in Honour of the Visionary Aboriginal Elder, David
+           Burrumarra. United States: Dog Ear Publishing.
+
+     Morphy, F. (2003). Cross-cultural categories, Yolngu science and local discourses. (Unpublished paper).
+          Centre for Cross-Cultural Research: The Australian National University.
+
+     Morphy, F., & Morphy H. (2008). Not seeing what is there: the Northern Territory outstation movement
+          and the Howard government intervention. Arena Magazine, 94, 40-43.
+                                                                        Learning Communities | Number 24 – October 2019
+
+
+
+                                                                                                                 79
+Morphy, F. & Morphy, H. (2012). Soon we will be spending all our time at funerals: Yolngu mortuary
+     rituals in an epoch of constant change. In S. Howell, & A. Talle (Eds.), Returns to the Field:
+     Multitemporal Research and Contemporary Anthropology (pp. 49-72). Bloomington Indiana:
+     Indiana University Press.
+
+Morphy, F. & Morphy, H. (2013). Anthropological theory and government policy in Australia’s Northern
+     Territory: The hegemony of the “mainstream”. American Anthropologist, 115(2), 174-187.
+
+Morphy, H. (1991). Ancestral Connections: art and an Aboriginal system of knowledge. Chicago: The
+     University of Chicago Press.
+
+Morphy, H. (2005). Mutual Conversion? the Methodist Church and the Yolngu, with particular reference
+     to Yirrkala. Humanities Research, 12(1), 41-54.
+
+Morphy, H. (2016). Extended lives in global spaces: The anthropology of Yolngu pre-burial ceremonies.
+     Journal of the Royal Anthropological Institute, 22, 332-355.
+
+Nungalinya. (2017). Nungalinya College 2015 Media Studies classes. Gotha’s story-My story and life at
+     Gäwa. Retrieved from https://www.youtube.com/watch?v=Zsxd0idIATU
+
+Rudder, J. (1993). Yolŋu Cosmology: an unchanging cosmos incorporating a rapidly changing world?
+     (Doctoral Dissertation). Australian National University, Canberra, Australia.
+
+Shapiro, W. (1981). Miwuyt marriage: the cultural anthropology of affinity in northeast Arnhem Land.
+      Philadelphia: Institute for the Study of Human Issues.
+
+Tamisari, F. (1998). Body, vision and movement: in the footprints of the Ancestors. Oceania, 68(4),
+      249-270.
+
+Thomson, D. (1949). Economic structure and the ceremonial exchange cycle in Arnhem Land.
+     Melbourne: Macmillan.
+
+van Gelderen, B., & Guthadjaka, K. (2019a). A Yolŋu ‘Bothways’ approach to English and Warramiri
+     literacy at Gäwa. Australian Review of Applied Linguistics, 41(3), 252-279.
+
+van Gelderen, B., & Guthadjaka, K. (2019b). Renewing the Yolŋu ‘Bothways’ philosophy: Warramiri
+     transculturation education at Gäwa. Australian Journal of Indigenous Education, 48, 1-11.
+
+Verran, H., & Christie, M. (2007). Using/designing digital technologies of representation in Aboriginal
+      Australian knowledge practices. Human Technology; Interdisciplinary Journal of Humans in ICT
+      Environments, 3(2), 214-227.
+
+Verran, H., & Christie, M. (2011). Doing Difference Together – Towards a Dialogue with Aboriginal
+      Knowledge Authorities Through an Australian Comparative Empirical Philosophical Inquiry.
+      Culture and Dialogue, 1(2), 21-36.
+
+Warner, W. (1937). A Black Civilization. Chicago: Harper & Roe.
+
+Wearing, B. (2007). Beulah Lowe and the Yolngu People. NSW, Australia: Betsy Wearing.
+
+Williams, D. (1994). David Burrumarra, MBE. Australian Aboriginal Studies, 2, 121-122.
+
+Williams, N. (1986). The Yolngu and their land. Canberra: Australian Institute of Aboriginal Studies.
+
+Williams, N. (1987). Two Laws: managing dispute in a contemporary Aboriginal community. Canberra:
+       Australian Institute of Aboriginal Studies.
+
+Wunuŋmurra, W. (1989). “Dhawurrpunaramirri”: Finding the common ground for a new aboriginal
+     curriculum. Ngoonjook: A Journal of Australian Indigenous Issues, 2, 12-16.
+
+Yule, I.R. (Ed.). (1980). My Mother the Land. Elcho Island: Uniting Church of Australia.
+
