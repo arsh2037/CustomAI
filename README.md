@@ -1,4 +1,6 @@
 The Figma Design link: https://drive.google.com/file/d/1cUehPZiNh8s37qMTFKXJJtTZqLFtJkK9/view?usp=sharing
+Youtube video link:https://www.youtube.com/watch?v=nAjrNXyfsLg
+
 
 Some of the layout snapshots:
 <br>
